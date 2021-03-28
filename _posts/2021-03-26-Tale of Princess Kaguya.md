@@ -5,6 +5,7 @@ subtitle: is moon
 tags: [test]
 comments: true
 ---
+![image-title-here](../img/kaguya.gif) <!-- {:class="img-responsive"} --> 
 
 It's really.. really quite beautiful.. never seen anything quite like it honestly it's kinda different
 
