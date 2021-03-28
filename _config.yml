@@ -19,6 +19,3 @@ plugins:
 comments:
    provider: facebook
 fb_comment_id: 1043896632668232
-
-exclude:
-  - _posts/2019-09-07-welcome-to-jekyll.markdown

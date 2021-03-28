@@ -80,6 +80,8 @@ table {
 h1,h2,h3,h4,h5,h6 {
  /*  font-weight: 800; */
   line-height: 1.1;
+  font-family: 'Press Start 2P', cursive;
+
 }
 
 
@@ -100,7 +102,6 @@ header {
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color: #303030;
@@ -414,6 +415,8 @@ footer a:hover {
   background: #999999 url(img/liquidgold.jpg) 0 0 repeat;
 }
 #thefeed {
+  font-family: 'Raleway', sans-serif;
+
   background-color: #111111 ;
   max-width: 20em;
   border: 5px solid #999999;
@@ -429,4 +432,13 @@ footer a:hover {
 #thefeedmoremore {
   background-color: #111111 ;
   background: #999999 url(img/goldplate.jpg) 0 0 repeat;
+}
+#typed-strings {
+  font-size: 1.6em;
+  max-width: 1em;
+}
+#typed {
+  font-size: 0.5em;
+  max-width: 10%;
+  color: #20C20E;
 }

@@ -6,10 +6,6 @@ tags: [test]
 comments: true
 ---
 
-
-
-Tale of princess kaguya
-
 It's really.. really quite beautiful.. never seen anything quite like it honestly it's kinda different
 
 She like loves the humans and shit over living in perfection on the moon, shits deep
