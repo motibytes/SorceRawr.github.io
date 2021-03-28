@@ -1,0 +1,47 @@
+---
+layout: home
+---
+
+<!-- if this fails on git upload its probably because lib might be in gitignore -->
+
+<script src="lib/typed.js" type="text/javascript"></script>
+<script src="lib/demos.js"></script>
+<link href="lib/demos.css" rel="stylesheet"/>
+
+    <br> <br>
+
+        <br> <br>
+
+
+<ul>
+  {% for post in site.posts %}
+  <div id="thefeed" >
+    <li >
+      <h4 id="thefeedmore"><a href="{{ post.url }}"> {{ post.title }}</a>  {{ post.topic }}</h4>
+      <p id="thefeedmore">{{ post.excerpt }}</p>
+    </li>
+  </div>
+    <br>
+    <div style=" margin: auto !important;">
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+    <img src="/assets/img/coin.png" style="max-width: 2.5%;"> </img>
+
+    <br>  <br>
+    </div>
+
+  {% endfor %}
+  <li>
+</ul>
+    <br> <br>
