@@ -415,7 +415,7 @@ footer a:hover {
 }
 #thefeed {
   background-color: #111111 ;
-  max-width: 50%;
+  max-width: 20em;
   border: 5px solid #999999;
   margin: auto;
   text-align: center;

@@ -1,4 +1,4 @@
-title: James Byt.es
+title: SorceRawr
 description: a byte-sized blog
 url: https://www.jamesbyt.es
 twitter:
@@ -6,7 +6,6 @@ twitter:
   card: summary
 show_downloads: true
 google_analytics: UA-133451816-2
-theme: jekyll-theme-tactile
 social:
    links:
       - https://www.instagram.com/motibyt3s/
