@@ -411,7 +411,7 @@ footer a:hover {
 /* all my code */
 
 #main {
-  background: #999999 url(/assets/img/liquidgold.jpg) 0 0 repeat;
+  background: #999999 url(assets/img/liquidgold.jpg) 0 0 repeat;
 }
 #thefeed {
   background-color: #111111 ;
@@ -423,10 +423,10 @@ footer a:hover {
 }
 #thefeedmore !important {
   color: #111111;
-  background: #999999 url(/assets/img/goldplate.jpg) 0 0 repeat;
+  background: #999999 url(assets/img/goldplate.jpg) 0 0 repeat;
 
 }
 #thefeedmoremore {
   background-color: #111111 ;
-  background: #999999 url(/assets/img/goldplate.jpg) 0 0 repeat;
+  background: #999999 url(assets/img/goldplate.jpg) 0 0 repeat;
 }
