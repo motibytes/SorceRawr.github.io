@@ -23,13 +23,13 @@ layout: home
   </div>
     <br>
     <div style=" margin: auto !important;">
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
-    <img src="img/coin.png" style="max-width: 2em;"> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
+    <img src="img/coin.png" style="max-width: 2em;" id=byebye> </img>
 
     <br>  <br>
     </div>
@@ -38,4 +38,11 @@ layout: home
   <li>
 </ul>
     <br> <br>
-</div> 
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+  $(document).on('click','#byebye',function(){
+  $('#byebye').remove();
+  });
+</script>
