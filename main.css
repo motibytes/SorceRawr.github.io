@@ -87,7 +87,7 @@ h1,h2,h3,h4,h5,h6 {
 
 
 a {
-   color: #a28351	; /*should be a link */ 
+   color: #999999	; /* #a28351	;*/
 }
 /* color: #c5000c; --*/
 a:hover {
@@ -457,4 +457,18 @@ footer a:hover {
 	margin: auto;
   text-align: center;
 	color: white;
+}
+/*
+img {
+  border: 5px solid #555;
+}
+*/
+#articleimg {
+	border: 5px solid #a28351;
+}
+
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(goldplate.jpg) 30 round;
 }
