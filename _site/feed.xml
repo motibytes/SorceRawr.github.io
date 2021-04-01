@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-03-31T21:31:23-07:00</updated><id>https://www.sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><entry><title type="html">Live Crypto Trades</title><link href="https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades.html" rel="alternate" type="text/html" title="Live Crypto Trades" /><published>2021-03-31T00:00:00-07:00</published><updated>2021-03-31T00:00:00-07:00</updated><id>https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades</id><content type="html" xml:base="https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades.html">&lt;p&gt;&lt;img src=&quot;/img/flowenergy.gif&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-03-31T21:51:42-07:00</updated><id>https://www.sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><entry><title type="html">Live Crypto Trades</title><link href="https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades.html" rel="alternate" type="text/html" title="Live Crypto Trades" /><published>2021-03-31T00:00:00-07:00</published><updated>2021-03-31T00:00:00-07:00</updated><id>https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades</id><content type="html" xml:base="https://www.sorcerawr.com/2021/03/31/Live-CryptoCurrency-Trades.html">&lt;p&gt;&lt;img src=&quot;/img/flowenergy.gif&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
 
-&lt;p&gt;ICX  entry: 1.82 - target: 2.9 - target gains: 59.34%&lt;/p&gt;
+&lt;p&gt;These are currently open limit orders and expected gains associated with each trade. &lt;br /&gt;&lt;br /&gt;
+You could use this information to set trades around these entries. &lt;br /&gt;
+Alts listed here have recently performed well.&lt;/p&gt;
 
-&lt;p&gt;CAKE  entry: 10.24 - target: 17  - target gains: 66.02%&lt;/p&gt;
+&lt;p&gt;ICX  entry: $1.82 - target: $2.9 - target gains: 59.34%&lt;/p&gt;
 
-&lt;p&gt;BAND entry: 14.6 - target: 17 - target gains: 16.44%&lt;/p&gt;
+&lt;p&gt;CAKE  entry: $10.24 - target: $17  - target gains: 66.02%&lt;/p&gt;
 
-&lt;p&gt;ETH  entry: 1424  - target: 1924  - target gains: 35.11%&lt;/p&gt;
+&lt;p&gt;BAND entry: $14.6 - target: $17 - target gains: 16.44%&lt;/p&gt;
 
-&lt;p&gt;ZRX entry: 1.49 - target: 1.9 - target gains: 27.52%&lt;/p&gt;
+&lt;p&gt;ETH  entry: $1424  - target: $1924  - target gains: 35.11%&lt;/p&gt;
+
+&lt;p&gt;ZRX entry: $1.49 - target: $1.9 - target gains: 27.52%&lt;/p&gt;
 
 &lt;p&gt;Percentages calculated with my app available below,&lt;/p&gt;
 &lt;iframe src=&quot;https://trinket.io/embed/python/cacd689c48?outputOnly=true&amp;amp;runOption=run&amp;amp;start=result&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
