@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: Live Crypto Trades
 subtitle: are magic money
 tags: [test]
