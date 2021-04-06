@@ -472,3 +472,7 @@ img {
   padding: 15px;
   border-image: url(goldplate.jpg) 30 round;
 }
+
+#hacker {
+	color: #20C20E;
+}

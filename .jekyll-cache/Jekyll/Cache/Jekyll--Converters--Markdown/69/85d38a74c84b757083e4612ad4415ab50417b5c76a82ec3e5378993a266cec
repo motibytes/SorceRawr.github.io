@@ -1,0 +1,31 @@
+I"l<p><img src="/img/flowenergy.gif" alt="image-title-here" /> <!-- {:class="img-responsive"} --></p>
+
+<p>These are currently open limit orders and expected gains associated with each trade. <br /><br />
+You could use this information to set trades around these entries. <br />
+Alts listed here have recently performed well.</p>
+
+<!--
+identifying coins and recommending them based on these two factors in the future.
+Volatile and predictable.
+-->
+
+<div id="hacker">
+ETH  entry: $1424  - target: $1924  - target gains: 35.11%
+
+
+ICX  entry: $1.82 - target: $2.9 - target gains: 59.34%
+
+CAKE  entry: $10.24 - target: $17  - target gains: 66.02%
+
+BAND entry: $14.6 - target: $17 - target gains: 16.44%
+
+
+ZRX entry: $1.49 - target: $1.9 - target gains: 27.52%
+</div>
+
+<p>Percentages calculated with my app available below,</p>
+<iframe src="https://trinket.io/embed/python/cacd689c48?outputOnly=true&amp;runOption=run&amp;start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen=""></iframe>
+
+<p>Hard link:
+<a href="https://jamesbytes.trinket.io/sites/cryptopercentz"> CryptoPercentz </a></p>
+:ET
