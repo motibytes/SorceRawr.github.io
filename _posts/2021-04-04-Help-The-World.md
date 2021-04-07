@@ -4,7 +4,7 @@ layout: post
 
 ![image-title-here](/img/world2.webp) <!-- {:class="img-responsive"} -->
 
-So there's this thing I came across right, turns out these donation companies took advantage of the
+So this thing I came across right, turns out these donation companies took advantage of the
 advertising model, and they will actually pay out donations for the money they make from users clicks..
 
 In other words, you can make these companies give their money away, once a day..
