@@ -8,6 +8,8 @@ Stream of a consciousness
 
 {% twitter https://twitter.com/GnopticThe %}
 
+<br><br>
+
 <!--
 <div class='jekyll-twitter-plugin' align="center">
     {% twitter https://twitter.com/anaik96 maxwidth=1000 limit=5 %}
