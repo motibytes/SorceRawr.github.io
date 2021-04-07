@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://sorcerawr.com/2021/03/26/Tale-of-Princess-Kaguya.html</loc>
+<loc>https://sorcerawr.com/2021/03/25/Tale-of-Princess-Kaguya.html</loc>
+<lastmod>2021-03-25T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://sorcerawr.com/2021/03/26/Gnoptic-Source-Tweets.html</loc>
 <lastmod>2021-03-26T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -15,10 +19,6 @@
 <url>
 <loc>https://sorcerawr.com/2021/04/04/Help-The-World.html</loc>
 <lastmod>2021-04-04T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>https://sorcerawr.com/2021/04/05/Gnoptic-Source-Tweets.html</loc>
-<lastmod>2021-04-05T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>https://sorcerawr.com/2021/04/06/Live-CryptoCurrency-Trades.html</loc>
