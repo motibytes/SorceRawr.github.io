@@ -1,6 +1,6 @@
 title: SorceRawr
 description: The Source of the best Media in the Matrix.
-url: https://SorceRawr.com
+url: "https://SorceRawr.com"
 twitter:
   username: BytesJames
   card: summary
@@ -16,6 +16,8 @@ social:
       - https://github.com/kuz3/
 plugins:
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-twitter-plugin
 comments:
    provider: facebook
 fb_comment_id: 1043896632668232
