@@ -9,24 +9,3 @@ Stream of a consciousness
 <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--
-{% twitter https://twitter.com/GnopticThe %}
-
-<br><br>
-
-<!--
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=1000 limit=5 %}
-</div>
-
-{% include mytwitter.html %}
--->
-<!--
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
-
--
