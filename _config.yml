@@ -1,8 +1,13 @@
-title: SorceRawr
-description: The Source of the best Media in the Matrix.
 url: "https://SorceRawr.com"
+title: "SorceRawr"
+description: "The Source of the best Media in the Matrix."
+tagline: "The Source of the best Media in the Matrix."
+email: jamesbytescontact@gmail.com
+author: "James Bytes"
+
+
 twitter:
-  username: BytesJames
+  username: GnopticThe
   card: summary
 show_downloads: true
 
@@ -11,13 +16,17 @@ social:
    links:
       - https://www.instagram.com/motibyt3s/
       - https://www.patreon.com/motibytes
-      - https://twitter.com/bytesjames
+      - https://twitter.com/GnopticThe
       - https://www.facebook.com/jamesbyt3s/
       - https://github.com/kuz3/
 plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-twitter-plugin
+  - jekyll-seo-tag
 comments:
    provider: facebook
 fb_comment_id: 1043896632668232
+
+
+google_analytics: G-71943LSBJN

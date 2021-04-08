@@ -4,9 +4,13 @@ title: Live Crypto Trades
 subtitle: are magic money
 tags: [test]
 comments: true
+
+permalink: trades
 ---
 ![image-title-here](/img/flowenergy.gif) <!-- {:class="img-responsive"} -->
 
+<iframe src="https://open.spotify.com/embed/track/7cooh1IEHC8fXqsiCF25IF" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br> 
 These are currently open limit orders and expected gains associated with each trade. <br>  
 You could use this information to set trades around these entries. <br>
 
@@ -47,5 +51,3 @@ Percentages calculated with my app available below,
 
 Hard link:
 <a href="https://jamesbytes.trinket.io/sites/cryptopercentz"> CryptoPercentz </a>
-
-<iframe src="https://open.spotify.com/embed/track/7cooh1IEHC8fXqsiCF25IF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

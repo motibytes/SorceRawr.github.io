@@ -1,19 +1,4 @@
----
-layout: page
-title: "Twitter feed"
-heading: "Twitter feed"
-excerpt: "Twitter feed."
-
-permalink: twitter
-
----
-
-page under development
-
-
-Twitter feed placeholder:
-
-
+I"<p>Twitter feed placeholder:</p>
 
 <section id="main-description">
   <div class="container">
@@ -25,11 +10,12 @@ Twitter feed placeholder:
         <div>
           <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
 
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+          <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          
 
         </div>
       </div>
     </div>
   </div>
   </section>
+:ET
