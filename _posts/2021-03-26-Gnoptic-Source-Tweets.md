@@ -6,6 +6,11 @@ layout: post
 
 Stream of a consciousness
 
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--
 {% twitter https://twitter.com/GnopticThe %}
 
 <br><br>
