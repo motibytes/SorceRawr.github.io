@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-04-08T00:07:06-07:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Live Crypto Trades</title><link href="https://sorcerawr.com/trades" rel="alternate" type="text/html" title="Live Crypto Trades" /><published>2021-04-06T00:00:00-07:00</published><updated>2021-04-06T00:00:00-07:00</updated><id>https://sorcerawr.com/Live-CryptoCurrency-Trades</id><content type="html" xml:base="https://sorcerawr.com/trades">&lt;p&gt;&lt;img src=&quot;/img/flowenergy.gif&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-04-08T00:57:07-07:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Live Crypto Trades</title><link href="https://sorcerawr.com/trades" rel="alternate" type="text/html" title="Live Crypto Trades" /><published>2021-04-06T00:00:00-07:00</published><updated>2021-04-06T00:00:00-07:00</updated><id>https://sorcerawr.com/Live-CryptoCurrency-Trades</id><content type="html" xml:base="https://sorcerawr.com/trades">&lt;p&gt;&lt;img src=&quot;/img/flowenergy.gif&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://open.spotify.com/embed/track/7cooh1IEHC8fXqsiCF25IF&quot; width=&quot;300&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt; 
-These are currently open limit orders and expected gains associated with each trade. &lt;br /&gt;&lt;br /&gt;
+&lt;iframe src=&quot;https://open.spotify.com/embed/track/40XVgYlIzqv4cndzgam9uW&quot; width=&quot;300&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;These are currently open limit orders and expected gains associated with each trade. &lt;br /&gt;&lt;br /&gt;
 You could use this information to set trades around these entries. &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Coins listed here have been identified and recommended based on two factors, &lt;br /&gt;
@@ -12,28 +13,33 @@ volatility and stable predictability.&lt;/p&gt;
 identifying coins and recommending them based on these two factors in the future.
 Volatile and predictable.
 --&gt;
+&lt;h1 id=&quot;filled-orders&quot;&gt;FILLED ORDERS&lt;/h1&gt;
 
-&lt;p&gt;ETH entry: $1585 - target: $1924 - target gains: ✨21.39%✨&lt;/p&gt;
+&lt;p&gt;ICX  entry: $2.24 - target: $2.7 - target gains: ✨20.54%✨ &lt;!--bin --&gt;&lt;/p&gt;
 
-&lt;p&gt;ETH entry: $1424 - target: $1924  - target gains: ✨35.11%✨&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;unfilled-orders&quot;&gt;UNFILLED ORDERS&lt;/h1&gt;
+
+&lt;p&gt;ETH entry: $1585 - target: $1924 - target gains: ✨21.39%✨  &lt;!--cb --&gt;&lt;/p&gt;
+
+&lt;p&gt;ETH entry: $1424 - target: $1924  - target gains: ✨35.11%✨ &lt;!--cb --&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.tradingview.com/chart/Ga9xSMp6/&quot;&gt; ETH TradingView chart &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;ICX  entry: $1.82 - target: $2.9 - target gains: ✨59.34%✨&lt;/p&gt;
-
-&lt;p&gt;ICX  entry: $2.24 - target: $2.7 - target gains: ✨20.54%✨&lt;/p&gt;
+&lt;p&gt;ICX  entry: $1.82 - target: $2.9 - target gains: ✨59.34%✨  &lt;!--bin --&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;CAKE  entry: $10.24 - target: $17  - target gains: ✨66.02%✨&lt;/p&gt;
+&lt;p&gt;CAKE  entry: $10.24 - target: $17  - target gains: ✨66.02%✨ &lt;!--bin --&gt;&lt;/p&gt;
 
-&lt;p&gt;CAKE entry: 14.19 - target: 16.7 - target gains: ✨17.69%✨&lt;/p&gt;
+&lt;p&gt;CAKE entry: 14.19 - target: 16.7 - target gains: ✨17.69%✨  &lt;!--bin --&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;BAND entry: $14.6 - target: $17 - target gains: ✨16.44%✨&lt;/p&gt;
+&lt;p&gt;BAND entry: $14.6 - target: $17 - target gains: ✨16.44%✨  &lt;!--bin --&gt;&lt;/p&gt;
 
-&lt;p&gt;ZRX entry: $1.49 - target: $1.9 - target gains: ✨27.52%✨&lt;/p&gt;
+&lt;p&gt;ZRX entry: $1.49 - target: $1.9 - target gains: ✨27.52%✨ &lt;!--cb --&gt;&lt;/p&gt;
 
 &lt;p&gt;Recommendations based on spot, not leveraged margin trading.&lt;/p&gt;
 
@@ -41,7 +47,9 @@ Volatile and predictable.
 &lt;iframe src=&quot;https://trinket.io/embed/python/cacd689c48?outputOnly=true&amp;amp;runOption=run&amp;amp;start=result&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Hard link:
-&lt;a href=&quot;https://jamesbytes.trinket.io/sites/cryptopercentz&quot;&gt; CryptoPercentz &lt;/a&gt;&lt;/p&gt;</content><author><name>James Bytes</name></author><category term="test" /><summary type="html"></summary></entry><entry><title type="html">Help The World</title><link href="https://sorcerawr.com/2021/04/04/Help-The-World.html" rel="alternate" type="text/html" title="Help The World" /><published>2021-04-04T00:00:00-07:00</published><updated>2021-04-04T00:00:00-07:00</updated><id>https://sorcerawr.com/2021/04/04/Help-The-World</id><content type="html" xml:base="https://sorcerawr.com/2021/04/04/Help-The-World.html">&lt;p&gt;&lt;img src=&quot;/img/world2.webp&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jamesbytes.trinket.io/sites/cryptopercentz&quot;&gt; CryptoPercentz &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Disclaimer: not a licensed financial advisaurus, think for yourself&lt;/p&gt;</content><author><name>James Bytes</name></author><category term="test" /><summary type="html"></summary></entry><entry><title type="html">Help The World</title><link href="https://sorcerawr.com/2021/04/04/Help-The-World.html" rel="alternate" type="text/html" title="Help The World" /><published>2021-04-04T00:00:00-07:00</published><updated>2021-04-04T00:00:00-07:00</updated><id>https://sorcerawr.com/2021/04/04/Help-The-World</id><content type="html" xml:base="https://sorcerawr.com/2021/04/04/Help-The-World.html">&lt;p&gt;&lt;img src=&quot;/img/world2.webp&quot; alt=&quot;image-title-here&quot; /&gt; &lt;!-- {:class=&quot;img-responsive&quot;} --&gt;&lt;/p&gt;
 
 &lt;p&gt;So this thing I came across right, turns out these donation companies took advantage of the
 advertising model, and they will actually pay out donations for the money they make from users clicks..&lt;/p&gt;

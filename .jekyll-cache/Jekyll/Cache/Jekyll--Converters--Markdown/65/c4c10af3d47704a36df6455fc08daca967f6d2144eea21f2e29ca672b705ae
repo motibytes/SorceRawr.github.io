@@ -1,0 +1,46 @@
+I".<p><img src="/img/flowenergy.gif" alt="image-title-here" /> <!-- {:class="img-responsive"} --></p>
+
+<iframe src="https://open.spotify.com/embed/track/40XVgYlIzqv4cndzgam9uW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p><br /></p>
+
+<p>These are currently open limit orders and expected gains associated with each trade. <br /><br />
+You could use this information to set trades around these entries. <br /></p>
+
+<p>Coins listed here have been identified and recommended based on two factors, <br />
+volatility and stable predictability.</p>
+
+<!--
+identifying coins and recommending them based on these two factors in the future.
+Volatile and predictable.
+-->
+
+<p>ETH entry: $1585 - target: $1924 - target gains: ✨21.39%✨</p>
+
+<p>ETH entry: $1424 - target: $1924  - target gains: ✨35.11%✨</p>
+
+<p><a href="https://www.tradingview.com/chart/Ga9xSMp6/"> ETH TradingView chart </a></p>
+
+<p>ICX  entry: $1.82 - target: $2.9 - target gains: ✨59.34%✨</p>
+
+<p>ICX  entry: $2.24 - target: $2.7 - target gains: ✨20.54%✨</p>
+
+<p><br /></p>
+
+<p>CAKE  entry: $10.24 - target: $17  - target gains: ✨66.02%✨</p>
+
+<p>CAKE entry: 14.19 - target: 16.7 - target gains: ✨17.69%✨</p>
+
+<p><br /></p>
+
+<p>BAND entry: $14.6 - target: $17 - target gains: ✨16.44%✨</p>
+
+<p>ZRX entry: $1.49 - target: $1.9 - target gains: ✨27.52%✨</p>
+
+<p>Recommendations based on spot, not leveraged margin trading.</p>
+
+<p>Percentages calculated with my app available below,</p>
+<iframe src="https://trinket.io/embed/python/cacd689c48?outputOnly=true&amp;runOption=run&amp;start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen=""></iframe>
+
+<p>Hard link:
+<a href="https://jamesbytes.trinket.io/sites/cryptopercentz"> CryptoPercentz </a></p>
+:ET
