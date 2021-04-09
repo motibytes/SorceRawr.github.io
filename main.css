@@ -508,7 +508,7 @@ img {
 			/*	color: #20c20E !important; */
 }
 .TweetAuthor-screenName {
-	color: #7ff87f !important;
+	/* color: #7ff87f !important;  */
 }
 
 a.customisable-highlight {
@@ -518,7 +518,7 @@ a.customisable-highlight {
 				color: #20c20E !important;
 }
 p.timeline-Tweet-text {
-				color: #7ff87f !important;
+				/* color: #7ff87f !important; */
 }
 /* -------------------
 #89de00 title color
