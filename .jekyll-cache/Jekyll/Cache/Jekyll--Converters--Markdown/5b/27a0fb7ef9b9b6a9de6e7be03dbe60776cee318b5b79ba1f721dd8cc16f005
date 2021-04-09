@@ -1,0 +1,1262 @@
+I"�)<p>(note ‘Disconnect Chrome Extension’ will break this page.)
+<br /></p>
+
+<!--
+
+ <iframe id="twitter-widget-1" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="profile:GnopticThe" title="Twitter Timeline" frameborder="0"></iframe>
+ ------->
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div>  <base target="_blank" /><link type="text/css" rel="stylesheet" href="https://platform.twitter.com/css/timeline.32f7f89e2e680ebfe3f4cfefb27966ae.dark.ltr.css" />
+
+<div class="timeline-Widget" data-iframe-title="Twitter Timeline" data-twitter-event-id="0" lang="en">
+
+<div class="timeline-Header timeline-InformationCircle-widgetParent" data-scribe="section:header">
+  <div class="timeline-InformationCircle" data-scribe="element:notice"><a href="https://support.twitter.com/articles/20175256" class="Icon Icon--informationCircleWhite js-inViewportScribingTarget" title="Twitter Ads info and privacy"><span class="u-hiddenVisually">Twitter Ads info and privacy</span></a>
+</div>
+
+
+<h1 class="timeline-Header-title u-inlineBlock" data-scribe="element:title">Tweets <span class="timeline-Header-byline" data-scribe="element:byline">by
+<a class="customisable-highlight" href="https://twitter.com/GnopticThe" title="‎@GnopticThe on Twitter">‎@GnopticThe</a></span></h1>
+
+
+
+
+
+
+</div>
+
+
+
+<div class="timeline-Body customisable-border">
+  <div class="timeline-Body-notification timeline-NewTweetsNotification new-tweets-bar" role="alert" aria-live="polite" aria-atomic="false" aria-relevant="additions">
+    <button class="timeline-ShowMoreButton" data-scribe="element:show_new_tweets">Load new Tweets</button>
+  </div>
+
+  <div class="timeline-Viewport">
+
+    <ol class="timeline-TweetList">
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1380363732497395713" data-rendered-tweet-id="1380363732497395713" data-click-to-open-target="https://twitter.com/GnopticThe/status/1380363732497395713" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author  js-inViewportScribingTarget">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Keep a healthy distance from friends who always ask, "What should we do?" <br />Don't be looking for what's next, look at what is available now. <br />If you already see this, you're already doing it, keep doing it.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1380363732497395713" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-09T03:35:34+0000" pubdate="" title="Time posted: April 09, 2021 03:35:34 (UTC)" aria-label="Posted 16 minutes ago">
+  16<abbr title="minutes">m</abbr>
+  </time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1380363732497395713" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1380363732497395713" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1380363732497395713%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1380363732497395713" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1380363732497395713%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1380363732497395713" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1380363732497395713%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1380363732497395713" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379713020524433409" data-rendered-tweet-id="1379713020524433409" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379713020524433409" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">authenticity --&gt; pog
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379713020524433409" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:29:52+0000" pubdate="" title="Time posted: April 07, 2021 08:29:52 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379713020524433409" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379713020524433409" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379713020524433409%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379713020524433409" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379713020524433409%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379713020524433409" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379713020524433409%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379713020524433409" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379710280490434560" data-rendered-tweet-id="1379710280490434560" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379710280490434560" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Rome wasn't built in a day.. this ain't Rome.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379710280490434560" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:18:59+0000" pubdate="" title="Time posted: April 07, 2021 08:18:59 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379710280490434560" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379710280490434560" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710280490434560%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710280490434560" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710280490434560%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710280490434560" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710280490434560%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710280490434560" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379710265525166080" data-rendered-tweet-id="1379710265525166080" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379710265525166080" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Every level of society, industry, tech is about to get lit.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379710265525166080" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:18:55+0000" pubdate="" title="Time posted: April 07, 2021 08:18:55 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379710265525166080" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379710265525166080" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710265525166080%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710265525166080" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710265525166080%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710265525166080" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379710265525166080%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379710265525166080" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379709255654248448" data-rendered-tweet-id="1379709255654248448" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379709255654248448" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">"How do I be rich?" <br />"Well, what would a rich person do? "
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379709255654248448" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:14:54+0000" pubdate="" title="Time posted: April 07, 2021 08:14:54 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379709255654248448" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379709255654248448" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709255654248448%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709255654248448" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709255654248448%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709255654248448" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709255654248448%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709255654248448" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379709135210606593" data-rendered-tweet-id="1379709135210606593" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379709135210606593" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">If you do not recognize your own value, <br />how the f is anyone else supposed to
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379709135210606593" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:14:26+0000" pubdate="" title="Time posted: April 07, 2021 08:14:26 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379709135210606593" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379709135210606593" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709135210606593%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709135210606593" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709135210606593%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709135210606593" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379709135210606593%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379709135210606593" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379708872479416320" data-rendered-tweet-id="1379708872479416320" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379708872479416320" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Poor or rich is the past I bring back into my future.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379708872479416320" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:13:23+0000" pubdate="" title="Time posted: April 07, 2021 08:13:23 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379708872479416320" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379708872479416320" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708872479416320%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708872479416320" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708872479416320%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708872479416320" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708872479416320%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708872479416320" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379708444467458051" data-rendered-tweet-id="1379708444467458051" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379708444467458051" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">If I am poor, I am being poor. I have been poor. I will be poor<br />If I am given, I am being given. I have been given. I will be given
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379708444467458051" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:11:41+0000" pubdate="" title="Time posted: April 07, 2021 08:11:41 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379708444467458051" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379708444467458051" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708444467458051%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708444467458051" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708444467458051%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708444467458051" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708444467458051%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708444467458051" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379708205148815360" data-rendered-tweet-id="1379708205148815360" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379708205148815360" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">joy != control over your environment.<br />I'd be happy if I had an apple instead of this lemon<img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f972.png" draggable="false" alt="🥲" title="Smiling face with tear" aria-label="Emoji: Smiling face with tear" />
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379708205148815360" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:10:44+0000" pubdate="" title="Time posted: April 07, 2021 08:10:44 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379708205148815360" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379708205148815360" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708205148815360%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708205148815360" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708205148815360%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708205148815360" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379708205148815360%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379708205148815360" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379707455731552260" data-rendered-tweet-id="1379707455731552260" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379707455731552260" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">It is not Love OR Power. <br />It is Power OR <br />Love AND Power
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379707455731552260" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:07:45+0000" pubdate="" title="Time posted: April 07, 2021 08:07:45 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379707455731552260" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379707455731552260" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707455731552260%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707455731552260" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707455731552260%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707455731552260" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707455731552260%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707455731552260" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379707097001164801" data-rendered-tweet-id="1379707097001164801" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379707097001164801" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Listen genuinely and others will desperately desire to genuinely hear you.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379707097001164801" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:06:20+0000" pubdate="" title="Time posted: April 07, 2021 08:06:20 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379707097001164801" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379707097001164801" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707097001164801%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707097001164801" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707097001164801%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707097001164801" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379707097001164801%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379707097001164801" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379706682515849219" data-rendered-tweet-id="1379706682515849219" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379706682515849219" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">We want to share what we know now because we set an expectation that there will not be a time to say it later.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379706682515849219" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:04:41+0000" pubdate="" title="Time posted: April 07, 2021 08:04:41 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379706682515849219" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379706682515849219" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379706682515849219%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379706682515849219" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379706682515849219%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379706682515849219" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379706682515849219%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379706682515849219" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379705905936220162" data-rendered-tweet-id="1379705905936220162" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379705905936220162" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">We fall asleep until someone wakes us up.. <br />again<img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f611.png" draggable="false" alt="😑" title="Expressionless face" aria-label="Emoji: Expressionless face" />
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379705905936220162" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:01:36+0000" pubdate="" title="Time posted: April 07, 2021 08:01:36 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379705905936220162" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379705905936220162" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705905936220162%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705905936220162" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705905936220162%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705905936220162" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705905936220162%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705905936220162" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379705504663011328" data-rendered-tweet-id="1379705504663011328" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379705504663011328" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">You can't see what you aren't looking for.
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379705504663011328" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T08:00:00+0000" pubdate="" title="Time posted: April 07, 2021 08:00:00 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379705504663011328" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379705504663011328" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705504663011328%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705504663011328" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705504663011328%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705504663011328" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379705504663011328%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379705504663011328" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379704578128629761" data-rendered-tweet-id="1379704578128629761" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379704578128629761" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">I'd like some compassionate destruction with my order <img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f64f.png" draggable="false" alt="🙏" title="Folded hands" aria-label="Emoji: Folded hands" />
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379704578128629761" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T07:56:19+0000" pubdate="" title="Time posted: April 07, 2021 07:56:19 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379704578128629761" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379704578128629761" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379704578128629761%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379704578128629761" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379704578128629761%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379704578128629761" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379704578128629761%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379704578128629761" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+<li class="timeline-TweetList-tweet customisable-border">
+
+
+<div class="timeline-Tweet  u-cf js-tweetIdInfo js-clickToOpenTarget" data-tweet-id="1379703766706962432" data-rendered-tweet-id="1379703766706962432" data-click-to-open-target="https://twitter.com/GnopticThe/status/1379703766706962432" data-twcon="timelinechrome" data-scribe="component:tweet">
+  <div class="timeline-Tweet-brand u-floatRight"><div class="Icon Icon--twitter " aria-label="View on Twitter" title="View on Twitter" role="presentation"></div>
+</div>
+
+
+  <div class="timeline-Tweet-author ">
+    <a class="TweetAuthor-avatar  Identity-avatar u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)"><img class="Avatar" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_bigger.jpg" alt="" data-src-1x="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" src="https://pbs.twimg.com/profile_images/1379701728975720448/sSboRRNQ_normal.jpg" /></a>
+
+
+
+
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author">
+  <a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/GnopticThe" aria-label="The Gnoptic Source (screen name: GnopticThe)">
+    <div class="TweetAuthor-nameScreenNameContainer">
+      <span class="TweetAuthor-decoratedName">
+        <span class="TweetAuthor-name Identity-name customisable-highlight" title="The Gnoptic Source" data-scribe="element:name">The Gnoptic Source</span>
+
+      </span>
+      <span class="TweetAuthor-screenName Identity-screenName" title="@GnopticThe" data-scribe="element:screen_name" dir="ltr">@GnopticThe</span>
+    </div>
+  </a>
+</div>
+
+  </div>
+
+
+  <p class="timeline-Tweet-text" dir="ltr" lang="en">Pride says, "I know the truth. You don't."<br />Good luck learning with that
+  </p>
+
+
+  <div class="timeline-Tweet-metadata">
+    <a href="https://twitter.com/GnopticThe/status/1379703766706962432" class="timeline-Tweet-timestamp" data-scribe="element:mini_timestamp">
+
+
+
+
+
+
+
+
+<time class="dt-updated" datetime="2021-04-07T07:53:06+0000" pubdate="" title="Time posted: April 07, 2021 07:53:06 (UTC)" aria-label="Posted on Apr 7, 2021">
+
+  Apr 7, 2021</time></a>
+  </div>
+
+  <ul class="timeline-Tweet-actions" data-scribe="component:actions" role="list" aria-label="Tweet actions">
+    <li class="timeline-Tweet-action" role="listitem">
+<a class="TweetAction TweetAction--heart web-intent" href="https://twitter.com/intent/like?tweet_id=1379703766706962432" data-scribe="element:heart"><div class="Icon Icon--heart TweetAction-icon Icon--heart" aria-label="Like" title="Like" role="img"></div>
+</a>
+</li>
+    <li class="timeline-Tweet-action timeline-ShareMenu" role="listitem">
+      <a class="TweetAction TweetAction--share js-showShareMenu" href="#" aria-haspopup="true" data-scribe="component:share"><div class="Icon Icon--share TweetAction-icon" aria-label="Share Tweet" title="Share Tweet" role="img"></div>
+</a>
+      <div class="timeline-ShareMenu-container">
+        <div class="timeline-ShareMenu-caret"></div>
+        <h3 class="timeline-ShareMenu-title">Share on</h3>
+        <ul role="list">
+            <li><a class="timeline-ShareMenu-option" href="https://twitter.com/intent/retweet?tweet_id=1379703766706962432" role="listitem" data-scribe="element:twitter">Twitter</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://facebook.com/dialog/share?app_id=361037704438612&amp;display=popup&amp;href=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379703766706962432%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379703766706962432" role="listitem" data-scribe="element:facebook">Facebook</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379703766706962432%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379703766706962432" role="listitem" data-scribe="element:linkedin">LinkedIn</a></li>
+            <li><a class="timeline-ShareMenu-option" href="https://tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftwitter.com%2FGnopticThe%2Fstatus%2F1379703766706962432%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eshare_intent%257Ctwterm%255E1379703766706962432" role="listitem" data-scribe="element:tumblr">Tumblr</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+</li>
+
+
+
+    </ol>
+
+          <div class="timeline-LoadMore">
+            <button class="timeline-LoadMore-prompt timeline-ShowMoreButton customisable" data-scribe="element:load_more">Load more Tweets</button>
+            <p class="timeline-LoadMore-endOfTimelineMessage no-more-pane" role="alert">There are no more Tweets in this timeline.</p>
+          </div>
+
+  </div>
+</div>
+
+
+<footer class="timeline-Footer u-cf" data-scribe="section:footer">
+    <a class="u-floatLeft" data-scribe="element:embed_url" href="https://publish.twitter.com/?url=https%3A%2F%2Ftwitter.com%2FGnopticThe">Embed</a>
+  <a class="u-floatRight" data-scribe="element:twitter_url" href="https://twitter.com/GnopticThe">View on Twitter</a>
+</footer>
+
+</div>
+
+<!------------------------------------------------------------------------>
+        </div>
+
+:ET

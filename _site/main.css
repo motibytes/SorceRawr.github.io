@@ -18,7 +18,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	vertical-align: baseline;
 	border: 0;
-
+	list-style: none !important; /* removed list dots */
 }
 body {
 
@@ -425,7 +425,7 @@ footer a:hover {
 /* all my code */
 
 #main {
-  background: #999999 url(img/liquidgold.jpg) 0 0 repeat;
+  background: #111111 url(img/liquidgold.jpg) 0 0 no-repeat;
 }
 #thefeed {
   font-family: 'Raleway', sans-serif;
@@ -479,4 +479,53 @@ img {
 
 #hacker {
 	color: #20C20E;
+}
+/* TWITTER HACKS ---------------------------------------------------------------------------------------------------*/
+#twitter-border-sparkle {
+	background-color: #111111;
+
+	  border: 10px solid transparent;
+	  padding: 15px;
+	  border-image: url(img/matrix.jpg) 30 round;
+	}
+#twitter-feed-border-sparkle {
+
+	}
+.timeline-Tweet {
+	background-color: #111111;
+
+			  border: 10px solid transparent;
+			  padding: 15px;
+			  border-image: url(img/matrix.jpg) 50 stretch;
+	}
+
+.timeline-Header-title { /* the title color */
+				background-color: #111111;
+		/*		color: #20c20E !important; */
+
+}
+.timeline-Header-byline {
+			/*	color: #20c20E !important; */
+}
+.TweetAuthor-screenName {
+	color: #7ff87f !important;
+}
+
+a.customisable-highlight {
+				color: #20c20E !important;
+}
+.customisable-highlight {
+				color: #20c20E !important;
+}
+p.timeline-Tweet-text {
+				color: #7ff87f !important;
+}
+/* -------------------
+#89de00 title color
+#00cf00 unselected color
+#89de00 selected color
+#7ff87f text color
+----------------------------------------------------------------------------------------------*/
+a { /* fixes main site color on twitter page but affects all */
+	color: #999999 !important;
 }

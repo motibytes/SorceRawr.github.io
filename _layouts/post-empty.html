@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{{ content }}
+
+<ul>
+  {% for post in site.posts %}
+  <div id="thefeed" >
+    <li >
+      <h4 id="thefeedmore"><a href="{{ post.url }}"> {{ post.title }}</a>  {{ post.topic }}</h4>
+      <p id="thefeedmore">{{ post.excerpt }}</p>
+    </li>
+  </div>
+    <br>
+    <div style=" margin: auto !important;">
+      <!-- {{ 'img/coin.png' | relative_url }} -->
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+    <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
+
+    <br>  <br>
+    </div>
+
+  {% endfor %}
+  <li>

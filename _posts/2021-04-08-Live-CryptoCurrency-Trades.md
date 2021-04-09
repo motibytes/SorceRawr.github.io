@@ -9,8 +9,7 @@ permalink: trades
 ---
 ![image-title-here](/img/flowenergy.gif) <!-- {:class="img-responsive"} -->
 
-<iframe src="https://open.spotify.com/embed/track/40XVgYlIzqv4cndzgam9uW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br>
+<iframe src="https://open.spotify.com/embed/track/7cooh1IEHC8fXqsiCF25IF" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 These are currently open limit orders and expected gains associated with each trade. <br>  
 You could use this information to set trades around these entries. <br>

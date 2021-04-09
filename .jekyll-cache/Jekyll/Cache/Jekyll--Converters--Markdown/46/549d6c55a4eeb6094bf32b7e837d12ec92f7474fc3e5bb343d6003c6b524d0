@@ -1,0 +1,48 @@
+I"<p>page under development</p>
+
+<p>Twitter feed placeholder:</p>
+
+<section id="main-description">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        ...
+      </div>
+      <div class="col-md-4">
+        <div>
+          <iframe id="twitter-widget-1" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px; height: 4094.25px;" data-widget-id="profile:GnopticThe" title="Twitter Timeline" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
+
+          <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+:ET

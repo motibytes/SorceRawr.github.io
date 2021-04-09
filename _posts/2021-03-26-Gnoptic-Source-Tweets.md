@@ -1,35 +1,10 @@
 ---
-layout: page
-title: "Twitter feed"
-heading: "Twitter feed"
-excerpt: "Twitter feed."
+layout: post-empty
 
 permalink: twitter
 
 ---
-
-page under development
-
-
-Twitter feed placeholder:
-
-
-
-<section id="main-description">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        ...
-      </div>
-      <div class="col-md-4">
-        <div>
-          <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw">Tweets by GnopticThe</a>
-
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-        </div>
-      </div>
-    </div>
-  </div>
-  </section>
+<p style="font-size: 10px;">(This page will not display correctly if using 'Disconnect') </p>
+<!--
+<iframe src="https://open.spotify.com/embed/track/7qkjuPpfgteHHjrBjHjXKe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> --> 
+{% include mytwittertest.html %}
