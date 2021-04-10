@@ -52,10 +52,15 @@ ZRX entry: $1.49 - target: $1.9 - target gains: ✨27.52%✨ <!--cb -->
 
 Recommendations based on spot, not leveraged margin trading.
 
-Percentages calculated with my app available below,
+Percentages on this page were calculated with my app available below,
 <iframe src="https://trinket.io/embed/python/cacd689c48?outputOnly=true&runOption=run&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Hard link:
 <a href="https://jamesbytes.trinket.io/sites/cryptopercentz"> CryptoPercentz </a>
 
 Disclaimer: not a licensed financial advisaurus, think for yourself
+
+
+# Additional Links:
+
+<a href="https://ndx.holdings/"> Top Defi Picks - NDX.Holdings </a>
