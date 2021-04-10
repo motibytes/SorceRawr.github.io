@@ -529,3 +529,122 @@ p.timeline-Tweet-text {
 a { /* fixes main site color on twitter page but affects all */
 	color: #999999 !important;
 }
+
+
+a.rainbow {
+			   /* Font options */
+			  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+			   /* Chrome, Safari, Opera */
+			  -webkit-animation: rainbow 3s infinite !important;
+			  /* Internet Explorer */
+			  -ms-animation: rainbow 3s infinite !important;
+			  /* Standar Syntax */
+			  animation: rainbow 3s infinite !important;
+			}
+			/* Chrome, Safari, Opera */
+			@-webkit-keyframes rainbow{
+			  0%{color: orange !important;}
+			  10%{color: purple !important;}
+				20%{color: red !important;}
+			  30%{color: CadetBlue !important;}
+				40%{color: yellow !important;}
+			  50%{color: coral !important;}
+				60%{color: green !important;}
+			  70%{color: cyan !important;}
+			  80%{color: DeepPink !important;}
+			  90%{color: DodgerBlue v;}
+				100%{color: orange !important;}
+			}
+			/* Internet Explorer */
+			@-ms-keyframes rainbow{
+			  0%{color: orange !important;}
+			  10%{color: purple !important;}
+				20%{color: red !important;}
+				40%{color: yellow !important;}
+				60%{color: green !important;}
+				100%{color: orange !important;}
+			}
+			/* Standar Syntax */
+			@keyframes rainbow{
+			  0%{color: orange !important;}
+			  10%{color: purple !important;}
+				20%{color: red !important;}
+				40%{color: yellow !important;}
+				60%{color: green !important;}
+				100%{color: orange !important;}
+			}
+			.text-legendary {
+				background-image: -webkit-linear-gradient(left,#D68AB0 0%,#D8CE5D 25%,#6BD85D 50%,#5DB9D8 75%,#D85DCB 100%) !important;
+				background-size: 1000% 1000% !important;
+				-webkit-background-clip: text !important;
+				-webkit-text-fill-color: transparent !important;
+				-webkit-animation: Text-Legendary 6s infinite !important;
+				color: #AAF200 !important;
+				}
+				.text-legendary a:link {
+				background-image: -webkit-linear-gradient(left,#D68AB0 0%,#D8CE5D 25%,#6BD85D 50%,#5DB9D8 75%,#D85DCB 100%) !important;
+				background-size: 1000% 1000% !important;
+				-webkit-background-clip: text !important;
+				-webkit-text-fill-color: transparent !important;
+				-webkit-animation: Text-Legendary 6s infinite !important;
+				color: #AAF200 !important;
+				}
+
+.rainbow {
+							   /* Font options */
+							  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+							   /* Chrome, Safari, Opera */
+							  -webkit-animation: rainbow 3s infinite !important;
+							  /* Internet Explorer */
+							  -ms-animation: rainbow 3s infinite !important;
+							  /* Standar Syntax */
+							  animation: rainbow 3s infinite !important;
+							}
+							/* Chrome, Safari, Opera */
+							@-webkit-keyframes rainbow{
+							  0%{color: orange !important;}
+							  10%{color: purple !important;}
+								20%{color: red !important;}
+							  30%{color: CadetBlue !important;}
+								40%{color: yellow !important;}
+							  50%{color: coral !important;}
+								60%{color: green !important;}
+							  70%{color: cyan !important;}
+							  80%{color: DeepPink !important;}
+							  90%{color: DodgerBlue v;}
+								100%{color: orange !important;}
+							}
+							/* Internet Explorer */
+							@-ms-keyframes rainbow{
+							  0%{color: orange !important;}
+							  10%{color: purple !important;}
+								20%{color: red !important;}
+								40%{color: yellow !important;}
+								60%{color: green !important;}
+								100%{color: orange !important;}
+							}
+							/* Standar Syntax */
+							@keyframes rainbow{
+							  0%{color: orange !important;}
+							  10%{color: purple !important;}
+								20%{color: red !important;}
+								40%{color: yellow !important;}
+								60%{color: green !important;}
+								100%{color: orange !important;}
+							}
+							.text-legendary {
+								background-image: -webkit-linear-gradient(left,#D68AB0 0%,#D8CE5D 25%,#6BD85D 50%,#5DB9D8 75%,#D85DCB 100%) !important;
+								background-size: 1000% 1000% !important;
+								-webkit-background-clip: text !important;
+								-webkit-text-fill-color: transparent !important;
+								-webkit-animation: Text-Legendary 6s infinite !important;
+								color: #AAF200 !important;
+								}
+								.text-legendary a:link {
+								background-image: -webkit-linear-gradient(left,#D68AB0 0%,#D8CE5D 25%,#6BD85D 50%,#5DB9D8 75%,#D85DCB 100%) !important;
+								background-size: 1000% 1000% !important;
+								-webkit-background-clip: text !important;
+								-webkit-text-fill-color: transparent !important;
+								-webkit-animation: Text-Legendary 6s infinite !important;
+								color: #AAF200 !important;
+								}
