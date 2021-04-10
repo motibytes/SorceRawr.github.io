@@ -61,9 +61,9 @@ Hard link:
 Disclaimer: not a licensed financial advisaurus, think for yourself
 
 
-# Additional Links:
+# Additional Links
 <br>
-<h2 style="color: #20C20E !important;" > <a href="https://ndx.holdings/" class="rainbow" > Top Defi Picks - NDX.Holdings </a> </h2>
+  \- TOP DEFI PICKS - <a href="https://ndx.holdings/" class="rainbow-text" >  NDX.HOLDINGS </a>
 <br>
 <br>
 <br>
