@@ -1,7 +1,10 @@
 ---
 layout: post
+permalink: positive
 ---
-![image-title-here](/img/butterfly.webp) <!-- {:class="img-responsive"} -->
+
+<a href="{{ page.url }}"> ![image](/img/butterfly.webp) </a> <!-- {:class="img-responsive"} -->
+
 
 
 If you can't beat em, join em. If it doesn't hurt

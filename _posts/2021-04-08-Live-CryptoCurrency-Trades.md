@@ -7,7 +7,9 @@ comments: true
 
 permalink: trades
 ---
-![image-title-here](/img/flowenergy.gif) <!-- {:class="img-responsive"} -->
+
+<a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
+
 
 <iframe src="https://open.spotify.com/embed/track/7cooh1IEHC8fXqsiCF25IF" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -29,13 +31,13 @@ ICX  entry: $2.24 - target: $2.7 - target gains: ✨20.54%✨ <!--bin -->
 
 # UNFILLED ORDERS
 
-ETH entry: $1585 - target: $1924 - target gains: ✨21.39%✨  <!--cb -->
+ETH entry: $1585 - target: $1924 - target gains: ✨21.39%✨  
 
-ETH entry: $1424 - target: $1924  - target gains: ✨35.11%✨ <!--cb -->
+<!-- ETH entry: $1424 - target: $1924  - target gains: ✨35.11%✨ cb -->
 
-<a href="https://www.tradingview.com/chart/Ga9xSMp6/"> ETH TradingView chart </a>
-
-ICX  entry: $1.82 - target: $2.9 - target gains: ✨59.34%✨  <!--bin -->
+<!-- <a href="https://www.tradingview.com/chart/Ga9xSMp6/"> ETH TradingView chart </a>
+-->
+ICX  entry: $1.82 - target: $2.9 - target gains: ✨59.34%✨  
 
 
 <br>

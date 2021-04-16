@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: helptheworld
 ---
 
-![image-title-here](/img/world2.webp) <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/world2.webp) </a> <!-- {:class="img-responsive"} -->
+
 
 So this thing I came across right, turns out these donation companies took advantage of the
 advertising model, and they will actually pay out donations for the money they make from users clicks..
