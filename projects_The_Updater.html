@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- NEED -->  <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<style>
+body {
+}
+footer {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+a {
+  color: black;
+}
+.normal {
+  font-family: 'Playfair Display', serif;
+  color: #33302e;
+  background-color: #fff1e5;
+}
+.hacker {
+  background-color: #111111;
+  font-family: 'IBM Plex Mono', monospace;
+  color: #20C20E;
+}
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-size: 36px;
+  margin-right: 50px;
+}
+.openbtn {
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #111;
+  color: #fff1e5;
+  padding: 10px 15px 10px 10px;
+  border: none;
+  width: 250px;
+}
+.openbtn:hover {
+  background-color: #444;
+}
+#main {
+  transition: margin-right .5s;
+  padding: 0px 16px 0px 24px; /* top right bottom left */
+  font-size: 36px;
+}
+#thecontent{
+}
+.theleft{
+  padding-left: 1em;
+  max-width: 750px;
+  margin: left;
+  text-align: left;
+}
+.thecentered{
+  text-align: center;
+  max-width: 750px;
+  margin: auto;
+}
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+</style>
+</head>
+
+
+<!-- BODY START ----------------------------------->
+<body id="body" class="normal">
+
+<div id="mySidebar" class="sidebar"> <!-- CUSTOMIZE ---------------------------------------------------------------------->
+
+
+  	a: <input type="number" name="one" id="one"><br>
+  	<!-- b: <input type="number" name="b" id="b"><br> -->
+  	<button onclick="add(document.getElementById('one').value)"> Custom Coin One </button>
+  	<script type="text/javascript">
+  		function add(a, b) {
+  			var sum = parseInt(a) + parseInt(b);
+  			alert(sum);
+  		}
+  	</script>
+
+
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="javascript:void(0)" onclick="darkMode()"> <div id="ChangeMode">Hacker Theme</div> </a>
+  <br>
+  <!-- <a href="javascript:void(0)" onclick="changeCenter()"> <div id="ChangeCenter"> Text to Left </div> </a>  -->
+  <a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
+  <a href="javascript:void(0)" onclick="magiceuro('BTCEUR', 'Bitcoin')"> <div> BTC/EUR </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ETHUSDT', 'Ethereum')"> <div> ETH </div> </a>
+  <a href="javascript:void(0)" onclick="magic('LTCUSDT', 'Litecoin')"> <div> LTC </div> </a>
+  <a href="javascript:void(0)" onclick="magic('XMRUSDT', 'Monero')"> <div> XMR </div> </a>
+  <a href="javascript:void(0)" onclick="magic('BNBUSDT', 'Binance Coin')"> <div> BNB </div> </a>
+  <a href="javascript:void(0)" onclick="magic('DOGEUSDT', 'Dogecoin')"> <div> DOGE </div> </a>
+  <a href="javascript:void(0)" onclick="magic('XRPUSDT', 'Ripple(XRP)')"> <div> XRP </div> </a>
+  <a href="javascript:void(0)" onclick="magic('LINKUSDT', 'ChainLink')"> <div> LINK </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ADAUSDT', 'Cardano')"> <div> ADA </div> </a>
+  <a href="javascript:void(0)" onclick="magic('DOTUSDT', 'Polkadot')"> <div> DOT </div> </a>
+  <a href="javascript:void(0)" onclick="magic('UNIUSDT', 'Uniswap')"> <div> UNI </div> </a>
+  <a href="javascript:void(0)" onclick="magic('BCHUSDT', 'Bitcoin Cash')"> <div> BCH </div> </a>
+  <a href="javascript:void(0)" onclick="magic('XLMUSDT', 'Stellar Lumens')"> <div> XLM </div> </a>
+
+  <a href="javascript:void(0)" onclick="magic('ALGOUSDT', 'Algorand')"> <div> ALGO </div> </a>
+  <a href="javascript:void(0)" onclick="magic('VETUSDT', 'VeChain')"> <div> VET </div> </a>
+  <a href="javascript:void(0)" onclick="magic('THETAUSDT', 'THETA')"> <div> THETA </div> </a>
+  <a href="javascript:void(0)" onclick="magic('FILUSDT', 'Filecoin')"> <div> FIL </div> </a>
+  <a href="javascript:void(0)" onclick="magic('TRONUSDT', 'TRON')"> <div> TRON </div> </a>
+
+  <a href="javascript:void(0)" onclick="magic('SOLUSDT', 'Solana')"> <div> SOL </div> </a>
+  <a href="javascript:void(0)" onclick="magic('NEOUSDT', 'Neo')"> <div> NEO </div> </a>
+  <a href="javascript:void(0)" onclick="magic('EOSUSDT', 'EOS')"> <div> EOS </div> </a>
+
+  <a href="javascript:void(0)" onclick="magic('MIOTAUSDT', 'IOTA')"> <div> MIOTA </div> </a>
+  <a href="javascript:void(0)" onclick="magic('AAVEUSDT', 'Aave')"> <div> AAVE </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ATOMUSDT', 'Cosmos')"> <div> ATOM </div> </a>
+  <a href="javascript:void(0)" onclick="magic('XTZUSDT', 'Tezos')"> <div> XTZ </div> </a>
+  <a href="javascript:void(0)" onclick="magic('CAKEUSDT', 'PancakeSwap')"> <div> CAKE </div> </a>
+  <a href="javascript:void(0)" onclick="magic('MKRUSDT', 'MakerDAO')"> <div> MKR </div> </a>
+  <a href="javascript:void(0)" onclick="magic('XEMUSDT', 'XEM')"> <div> XEM </div> </a>
+
+
+  <a href="javascript:void(0)" onclick="magic('RUNEUSDT', 'Thorchain RUNE')"> <div> RUNE </div> </a>
+  <a href="javascript:void(0)" onclick="magic('DASHUSDT', 'Dash')"> <div> DASH </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ZECUSDT', 'Zcash')"> <div> ZEC </div> </a>
+  <a href="javascript:void(0)" onclick="magic('MANAUSDT', 'Decentraland')"> <div> MANA </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ENJUSDT', 'Enjin Coin')"> <div> ENJ </div> </a>
+  <a href="javascript:void(0)" onclick="magic('SNXUSDT', 'Synthetix')"> <div> SNX </div> </a>
+  <a href="javascript:void(0)" onclick="magic('BATUSDT', 'Basic Attention Token')"> <div> BAT </div> </a>
+
+
+  <a href="javascript:void(0)" onclick="magic('YFIUSDT', 'yearn.finance')"> <div> YFI </div> </a>
+  <a href="javascript:void(0)" onclick="magic('QTUMUSDT', 'Qtum coin')"> <div> QTUM </div> </a>
+  <a href="javascript:void(0)" onclick="magic('SUSHIUSDT', 'Sushi')"> <div> SUSHI </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ZRXUSDT', '0x Protocol')"> <div> ZRX </div> </a>
+  <a href="javascript:void(0)" onclick="magic('ICONUSDT', 'ICX')"> <div> ICX (ICON) </div> </a>
+  <a href="javascript:void(0)" onclick="magic('RSRUSDT', 'Reserve Rights')"> <div> RSR </div> </a>
+  <a href="javascript:void(0)" onclick="magic('CGLDUSDT', 'Celo Gold')"> <div> CGLD </div> </a>
+  <a href="javascript:void(0)" onclick="magic('RENUSDT', 'Ren')"> <div> REN </div> </a>
+  <a href="javascript:void(0)" onclick="magic('CRVUSDT', 'Curve DAO')"> <div> CRV </div> </a>
+
+  <a href="javascript:void(0)" onclick="magic('CRVUSDT', 'Curve DAO')"> <div> Custom 1 </div> </a>
+
+<!-- blank MIOTA TRON ICX CGLD errors
+<a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
+<a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
+
+-->
+
+  <br><br><br><br>
+  <a href="#">Contact</a>
+</div>
+
+<div id="main">
+  <p class="openbtn" onclick="openNav()">☰ CUSTOMIZE</p> <!-- CUSTOMIZE BUTTON -->
+<h4 style="padding-left:.5em; padding-top:0px;"> THE UPDATER </h4>
+    <div id="thecontent" class="thecentered">
+          <div style="display:inline;" id="BTCUSDT" class="BTCUSDT"></div>
+          <div style="display:inline;" id="BTCEUR" class="BTCEUR"></div>
+          <div style="display:inline;" id="ETHUSDT" class="ETHUSDT"></div>
+<!--
+ just make the corresponding button to go with pair in the sidebar. -->
+          <div style="display:inline;" id="LTCUSDT" class="LTCUSDT"></div>
+          <div style="display:inline;" id="XMRUSDT" class="XMRUSDT"></div>
+          <div style="display:inline;" id="BNBUSDT" class="BNBUSDT"></div>
+          <div style="display:inline;" id="DOGEUSDT" class="DOGEUSDT"></div>
+          <div style="display:inline;" id="XRPUSDT" class="XRPUSDT"></div>
+          <div style="display:inline;" id="LINKUSDT" class="LINKUSDT"></div>
+          <div style="display:inline;" id="ADAUSDT" class="ADAUSDT"></div>
+          <div style="display:inline;" id="DOTUSDT" class="DOTUSDT"></div>
+
+
+
+          <div style="display:inline;" id="UNIUSDT" class="UNIUSDT"></div>
+          <div style="display:inline;" id="BCHUSDT" class="BCHUSDT"></div>
+          <div style="display:inline;" id="XLMUSDT" class="XLMUSDT"></div>
+          <div style="display:inline;" id="ALGOUSDT" class="ALGOUSDT"></div>
+          <div style="display:inline;" id="VETUSDT" class="VETUSDT"></div>
+          <div style="display:inline;" id="THETAUSDT" class="THETAUSDT"></div>
+          <div style="display:inline;" id="FILUSDT" class="FILUSDT"></div>
+          <div style="display:inline;" id="TRONUSDT" class="TRONUSDT"></div>
+          <div style="display:inline;" id="SOLUSDT" class="SOLUSDT"></div>
+          <div style="display:inline;" id="NEOUSDT" class="NEOUSDT"></div>
+          <div style="display:inline;" id="EOSUSDT" class="EOSUSDT"></div>
+
+          <div style="display:inline;" id="MIOTAUSDT" class="MIOTAUSDT"></div>
+          <div style="display:inline;" id="AAVEUSDT" class="AAVEUSDT"></div>
+          <div style="display:inline;" id="ATOMUSDT" class="ATOMUSDT"></div>
+          <div style="display:inline;" id="XTZUSDT" class="XTZUSDT"></div>
+          <div style="display:inline;" id="CAKEUSDT" class="CAKEUSDT"></div>
+          <div style="display:inline;" id="MKRUSDT" class="MKRUSDT"></div>
+          <div style="display:inline;" id="XEMUSDT" class="XEMUSDT"></div>
+
+
+          <div style="display:inline;" id="RUNEUSDT" class="RUNEUSDT"></div>
+          <div style="display:inline;" id="DASHUSDT" class="DASHUSDT"></div>
+          <div style="display:inline;" id="ZECUSDT" class="ZECUSDT"></div>
+          <div style="display:inline;" id="MANAUSDT" class="MANAUSDT"></div>
+          <div style="display:inline;" id="ENJUSDT" class="ENJUSDT"></div>
+          <div style="display:inline;" id="SNXUSDT" class="SNXUSDT"></div>
+          <div style="display:inline;" id="BATUSDT" class="BATUSDT"></div>
+
+          <div style="display:inline;" id="YFIUSDT" class="YFIUSDT"></div>
+          <div style="display:inline;" id="QTUMUSDT" class="QTUMUSDT"></div>
+          <div style="display:inline;" id="SUSHIUSDT" class="SUSHIUSDT"></div>
+          <div style="display:inline;" id="ZRXUSDT" class="ZRXUSDT"></div>
+          <div style="display:inline;" id="ICONUSDT" class="ICONUSDT"></div>
+          <div style="display:inline;" id="RSRUSDT" class="RSRUSDT"></div>
+          <div style="display:inline;" id="CELOUSDT" class="CELOUSDT"></div>
+          <div style="display:inline;" id="RENUSDT" class="RENUSDT"></div>
+          <div style="display:inline;" id="CRVUSDT" class="CRVUSDT"></div>
+<!--
+          CUSTOM - form to JS - type in pair name and press enter
+          --V2, just the price. release both V1 and V2 at same time.
+-->
+  </div><br>
+
+<footer>
+  <br><br><br><br><br><br><br><br><br>
+
+    <a href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GnopticThe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <br>
+    <p style='font-size: 14px;'>
+    bitcoin donation address: bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a  <br>
+    ethereum donation address: <br> <br>
+
+    Created by <b> <a href="https://jamesbyt.es"> James T. Bytes</a>. </b>
+
+    Todo: updater v1 fix prices
+                     add eth address
+                     add javascript form for custommmmm shiiiize
+          updater v2 just price
+          about page : the definitive way to watch your assets.
+
+          make a custom gif with matrix background for page maybe
+</footer>
+
+
+<script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginRight = "250px";
+}
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginRight= "0";
+}
+
+</script>
+
+<script>
+function magic(symbol, coin) {
+  $.getJSON('https://api.binance.com/api/v3/ticker/24hr?symbol=' + symbol, function(data) {
+    var price = Number(data.lastPrice).toFixed(2)
+    var vol = Number(data.volume).toFixed(2)
+    var low = Number(data.lowPrice).toFixed(2)
+    var high = Number(data.highPrice).toFixed(2)
+    var text = `<div style=" ">
+          The live ${coin} price today is $${price}
+          with a 24-hour trading volume of ${vol}.
+          ${coin} has changed ${data.priceChangePercent}% in the last 24 hours.
+          The day's low is $${low} and the day's high is $${high}.
+          <br><br>
+          </div>`
+    $("." + symbol).html(text);
+  });
+  var x = document.getElementById(symbol);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  };
+}
+function magiceuro(symbol, coin) {
+  $.getJSON('https://api.binance.com/api/v3/ticker/24hr?symbol=' + symbol, function(data) {
+    var price = Number(data.lastPrice).toFixed(2)
+    var vol = Number(data.volume).toFixed(2)
+    var low = Number(data.lowPrice).toFixed(2)
+    var high = Number(data.highPrice).toFixed(2)
+    var text = `<div style=" ">
+          The live ${coin} price today is €${price}
+          with a 24-hour trading volume of ${vol}.
+          ${coin} has changed ${data.priceChangePercent}% in the last 24 hours.
+          The day's low is €${low} and the day's high is €${high}.
+          <br><br>
+          </div>`
+    $("." + symbol).html(text);
+  });
+  var x = document.getElementById(symbol);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  };
+}
+magic('BTCUSDT', 'Bitcoin')
+
+
+</script>
+
+<script>
+function darkMode() {
+   var element = document.getElementById("body");
+   element.classList.toggle("hacker")
+   var x = document.getElementById("ChangeMode");
+   if (x.innerHTML === "Hacker Theme") {
+     x.innerHTML = "Normal Theme";
+   } else {
+     x.innerHTML = "Hacker Theme";
+   }
+}
+function changeCenter() {
+  var element = document.getElementById("thecontent");
+  element.classList.toggle("theleft")
+  var x = document.getElementById("ChangeMode");
+  if (x.innerHTML === "Text to Left") {
+   x.innerHTML = "Text to Center";
+  } else {
+   x.innerHTML = "Text to Left";
+  }
+}
+
+</script>
+</body>
+</html>
