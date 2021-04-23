@@ -157,9 +157,7 @@ a {
           var high = Number(data.highPrice).toFixed(2)
           var name = data.symbol
           var text = `<div style=" ">
-                The live ${name} coin price today is ${price}.
-                ${name} has changed ${data.priceChangePercent}% in the last 24 hours.
-                The day's low is ${low} and the day's high is ${high}.
+                ${name} price today is ${price}. Change: ${data.priceChangePercent}%
                 <br><br>
                 </div>`
           $("." + custom).html(text);
@@ -224,7 +222,7 @@ a {
 
 <div id="main">
   <p class="openbtn" onclick="openNav()">☰ CUSTOMIZE</p> <!-- CUSTOMIZE BUTTON -->
-<h4 style="padding-left:.5em; padding-top:0px;"> THE UPDATER </h4>
+<h4 style="padding-left:.5em; padding-top:0px;"> THE UPDATER 2 </h4>
     <div id="thecontent" class="thecentered">
           <div style="display:inline;" id="BTCUSDT" class="BTCUSDT"></div>
           <div style="display:inline;" id="BTCEUR" class="BTCEUR"></div>
@@ -319,10 +317,7 @@ function magic(symbol, coin) {
     var low = Number(data.lowPrice).toFixed(2)
     var high = Number(data.highPrice).toFixed(2)
     var text = `<div style=" ">
-          The live ${coin} price today is $${price}
-          with a 24-hour trading volume of ${vol}.
-          ${coin} has changed ${data.priceChangePercent}% in the last 24 hours.
-          The day's low is $${low} and the day's high is $${high}.
+          ${coin} price today is $${price}. <br> Change: ${data.priceChangePercent}%
           <br><br>
           </div>`
     $("." + symbol).html(text);
@@ -341,12 +336,9 @@ function magiceuro(symbol, coin) {
     var low = Number(data.lowPrice).toFixed(2)
     var high = Number(data.highPrice).toFixed(2)
     var text = `<div style=" ">
-          The live ${coin} price today is €${price}
-          with a 24-hour trading volume of ${vol}.
-          ${coin} has changed ${data.priceChangePercent}% in the last 24 hours.
-          The day's low is €${low} and the day's high is €${high}.
-          <br><br>
-          </div>`
+                ${coin} price today is €${price}. <br> Change: ${data.priceChangePercent}%
+                <br><br>
+                </div>`
     $("." + symbol).html(text);
   });
   var x = document.getElementById(symbol);
