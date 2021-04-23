@@ -33,6 +33,9 @@ a {
   font-family: 'IBM Plex Mono', monospace;
   color: #20C20E;
 }
+.hacker a {
+  color: #999999;
+}
 .sidebar {
   height: 100%;
   width: 0;
@@ -109,26 +112,36 @@ a {
 
 
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-  <a href="google.com">About - fix link</a>
+  <a href="google.com">About - fix link</a> <br>
 
   <a href="javascript:void(0)" onclick="darkMode()"> <div id="ChangeMode">Hacker Theme</div> </a>
-  <br>
+
+
   <!-- CUSTOM COIN FUNCTION  ---------------------------------------------------------------------->
   <p style="  font-size: 25px;
     color: #818181;
-    display: block;">
-  Display Custom Coin
-  <input type="text" name="one" id="one" value="type ETHUSDT here" style="
+    display: block;
+    ">
+
+    <div id="sidebar" style=" padding-left: 36px;  font-size: 25px;
+      color: #818181;" >  Custom Coin  </div>
+
+  <input type="text" name="one" id="one" placeholder="enter ETHUSDT" style="
   font-size: 25px;
   color: #black;
   background-color: #818181;
-  display: block;"><br>
+"><br>
   <button onclick="custommagic(document.getElementById('one').value)" style="
   font-size: 25px;
   color: #111111;
   display: block;
   background-color: #818181;
+   padding-left: 36px;
+   padding-right: 36px;
+   margin-left:36px;
   "> Enter </button>
+
+
   <script type="text/javascript">
     function custommagic(custom) {
         $.getJSON('https://api.binance.com/api/v3/ticker/24hr?symbol=' + custom, function(data) {
@@ -275,7 +288,7 @@ a {
 <!--     <p style="font-size:24px;"> <b> See expanded information at  <a href="google.com">The Updater </a> </p> -->
 
     <p style="font-size:24px;"> <b> <a href="google.com">About The Updater - fix link</a>
-    <br>
+    <br> <br>
     <a href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GnopticThe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <br>
     <p style='font-size: 14px;'>
