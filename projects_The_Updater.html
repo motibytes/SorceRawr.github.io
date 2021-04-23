@@ -104,20 +104,45 @@ a {
 <div id="mySidebar" class="sidebar"> <!-- CUSTOMIZE ---------------------------------------------------------------------->
 
 
-  	a: <input type="number" name="one" id="one"><br>
-  	<!-- b: <input type="number" name="b" id="b"><br> -->
-  	<button onclick="add(document.getElementById('one').value)"> Custom Coin One </button>
-  	<script type="text/javascript">
-  		function add(a, b) {
-  			var sum = parseInt(a) + parseInt(b);
-  			alert(sum);
-  		}
-  	</script>
-
-
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <a href="javascript:void(0)" onclick="darkMode()"> <div id="ChangeMode">Hacker Theme</div> </a>
   <br>
+  <!-- CUSTOM COIN FUNCTION  ---------------------------------------------------------------------->
+  <p style="  font-size: 25px;
+    color: #818181;
+    display: block;">
+  Display Custom Coin
+  <input type="text" name="one" id="one" value="type ETHUSDT here" style="
+  font-size: 25px;
+  color: #black;
+  background-color: #818181;
+  display: block;"><br>
+  <button onclick="custommagic(document.getElementById('one').value)" style="
+  font-size: 25px;
+  color: #111111;
+  display: block;
+  background-color: #818181;
+  "> Enter </button>
+  <script type="text/javascript">
+    function custommagic(custom) {
+        $.getJSON('https://api.binance.com/api/v3/ticker/24hr?symbol=' + custom, function(data) {
+          var price = Number(data.lastPrice).toFixed(2)
+          var vol = Number(data.volume).toFixed(2)
+          var low = Number(data.lowPrice).toFixed(2)
+          var high = Number(data.highPrice).toFixed(2)
+          var name = data.symbol
+          var text = `<div style=" ">
+                The live ${name} coin price today is ${price}.
+                ${name} has changed ${data.priceChangePercent}% in the last 24 hours.
+                The day's low is ${low} and the day's high is ${high}.
+                <br><br>
+                </div>`
+          $("." + custom).html(text);
+        });
+    }
+
+  </script>
+
   <!-- <a href="javascript:void(0)" onclick="changeCenter()"> <div id="ChangeCenter"> Text to Left </div> </a>  -->
   <a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
   <a href="javascript:void(0)" onclick="magiceuro('BTCEUR', 'Bitcoin')"> <div> BTC/EUR </div> </a>
@@ -138,13 +163,11 @@ a {
   <a href="javascript:void(0)" onclick="magic('VETUSDT', 'VeChain')"> <div> VET </div> </a>
   <a href="javascript:void(0)" onclick="magic('THETAUSDT', 'THETA')"> <div> THETA </div> </a>
   <a href="javascript:void(0)" onclick="magic('FILUSDT', 'Filecoin')"> <div> FIL </div> </a>
-  <a href="javascript:void(0)" onclick="magic('TRONUSDT', 'TRON')"> <div> TRON </div> </a>
 
   <a href="javascript:void(0)" onclick="magic('SOLUSDT', 'Solana')"> <div> SOL </div> </a>
   <a href="javascript:void(0)" onclick="magic('NEOUSDT', 'Neo')"> <div> NEO </div> </a>
   <a href="javascript:void(0)" onclick="magic('EOSUSDT', 'EOS')"> <div> EOS </div> </a>
 
-  <a href="javascript:void(0)" onclick="magic('MIOTAUSDT', 'IOTA')"> <div> MIOTA </div> </a>
   <a href="javascript:void(0)" onclick="magic('AAVEUSDT', 'Aave')"> <div> AAVE </div> </a>
   <a href="javascript:void(0)" onclick="magic('ATOMUSDT', 'Cosmos')"> <div> ATOM </div> </a>
   <a href="javascript:void(0)" onclick="magic('XTZUSDT', 'Tezos')"> <div> XTZ </div> </a>
@@ -166,22 +189,13 @@ a {
   <a href="javascript:void(0)" onclick="magic('QTUMUSDT', 'Qtum coin')"> <div> QTUM </div> </a>
   <a href="javascript:void(0)" onclick="magic('SUSHIUSDT', 'Sushi')"> <div> SUSHI </div> </a>
   <a href="javascript:void(0)" onclick="magic('ZRXUSDT', '0x Protocol')"> <div> ZRX </div> </a>
-  <a href="javascript:void(0)" onclick="magic('ICONUSDT', 'ICX')"> <div> ICX (ICON) </div> </a>
   <a href="javascript:void(0)" onclick="magic('RSRUSDT', 'Reserve Rights')"> <div> RSR </div> </a>
-  <a href="javascript:void(0)" onclick="magic('CGLDUSDT', 'Celo Gold')"> <div> CGLD </div> </a>
   <a href="javascript:void(0)" onclick="magic('RENUSDT', 'Ren')"> <div> REN </div> </a>
   <a href="javascript:void(0)" onclick="magic('CRVUSDT', 'Curve DAO')"> <div> CRV </div> </a>
 
-  <a href="javascript:void(0)" onclick="magic('CRVUSDT', 'Curve DAO')"> <div> Custom 1 </div> </a>
-
-<!-- blank MIOTA TRON ICX CGLD errors
-<a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
-<a href="javascript:void(0)" onclick="magic('BTCUSDT', 'Bitcoin')"> <div> BTC/USDT </div> </a>
-
--->
 
   <br><br><br><br>
-  <a href="#">Contact</a>
+  <a href="#">About</a>
 </div>
 
 <div id="main">
@@ -251,20 +265,21 @@ a {
 <footer>
   <br><br><br><br><br><br><br><br><br>
 
+    <p style="font-size:24px;"> <b> See only prices at  <a href="google.com">The Updater 2 </a> </p>
+<!--     <p style="font-size:24px;"> <b> See expanded information at  <a href="google.com">The Updater </a> </p> -->
+
+    <br>
     <a href="https://twitter.com/GnopticThe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GnopticThe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <br>
-    <p style='font-size: 14px;'>    
+    <p style='font-size: 14px;'>
    bitcoin donation address: bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a <br>
    ethereum donation address: 0x39c7C9FdB10Df996d59590fd5cC52483a919EB29   <br> <br>
 
     Created by <b> <a href="https://jamesbyt.es"> James T. Bytes</a>. </b>
 
-    Todo: updater v1 fix prices
-                     add eth address
-                     add javascript form for custommmmm shiiiize
           updater v2 just price
           about page : the definitive way to watch your assets.
-
+          
           make a custom gif with matrix background for page maybe
 </footer>
 
