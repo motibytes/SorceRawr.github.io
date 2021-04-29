@@ -3,9 +3,10 @@ layout: post
 permalink: rawrtheupdater
 ---
 
+<a href="{{ page.url }}"> ![image](/img/crypto.gif) </a> <!-- {:class="img-responsive"} -->
+
 The definitive way to watch your crypto assets.
 
-<a href="{{ page.url }}"> ![image](/img/crypto.gif) </a> <!-- {:class="img-responsive"} -->
 
 [The Updater 2](https://sorcerawr.com/theupdater2) - price info
 
