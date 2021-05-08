@@ -7,6 +7,9 @@ permalink: thewisdom
 
 <a href="{{ page.url }}"> ![image](/img/unused-void-testagainagain.webp) </a> <!-- {:class="img-responsive"} -->
 
+<iframe src="https://open.spotify.com/embed/track/1qmo0CeSNbWdnZRDW55PSe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
 Anyone who has pursued knowledge has learned that it is the source of true power,
 anyone who has sought it has learned that it will be found.
 
