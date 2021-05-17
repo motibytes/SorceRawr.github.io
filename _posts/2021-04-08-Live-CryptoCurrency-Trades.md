@@ -1,8 +1,9 @@
-
+<!--
 ---
 layout: post
 permalink: trades
 ---
+--> 
 <a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
 
 
