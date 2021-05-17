@@ -1,13 +1,8 @@
+
 ---
 layout: post
-title: Live Crypto Trades
-subtitle: are magic money
-tags: [test]
-comments: true
-
 permalink: trades
 ---
-
 <a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
 
 
@@ -19,7 +14,7 @@ You could use this information to set trades around these entries. <br>
 Coins listed here have been identified and recommended based on two factors, <br>
 volatility and stable predictability.
 
-Status: not currently active buy more ethereum and hodl 
+Status: not currently active buy more ethereum and hodl
 <!--
 <!--
 identifying coins and recommending them based on these two factors in the future.
