@@ -3,7 +3,8 @@ layout: post
 permalink: rawrtheupdater
 ---
 
-<a href="{{ page.url }}"> ![image](/img/crypto.gif) </a> <!-- {:class="img-responsive"} -->
+
+<a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
 
 The definitive way to watch your crypto assets.
 
