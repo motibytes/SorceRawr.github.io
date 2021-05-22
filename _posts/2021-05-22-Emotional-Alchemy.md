@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: emotionalalchemy
 ---
 
 <a href="{{ page.url }}"> ![image](/img/formless.webp)
