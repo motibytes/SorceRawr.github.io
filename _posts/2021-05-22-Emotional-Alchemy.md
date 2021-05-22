@@ -52,13 +52,13 @@ The introduction to these methods is simply that you do not know which ones will
 
 A methodology as follows,
 
-1. Asking questions.
+1 Asking questions.
 
 Asking yourself questions about what you are feeling, how you are feeling, why you are feeling, is a way to dig into the roots of emotion. In this process you are removing your existing conclusions and reasons for why you feel this way. You are abandoning what you already have concluded, which is often what you have believed for many years.
 
 A second line of questioning is often the next step, asking, "What am I missing?", "What am I not seeing here?", "What is a different way to interpret what I am experiencing?"
 
-2. Identifying emotional desires and needs.  
+2 Identifying emotional desires and needs.  
 
 It is usually the case that a persistent negative emotion is tied to a core need that has long since gone unmet. You may already be familiar with some of these needs while unaware of how to access them or resolve them. Usually underneath "surface emotions" is, a need to be seen and heard, a need to be loved, or a need to be connected, amongst others.
 
