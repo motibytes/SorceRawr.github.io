@@ -1,13 +1,7 @@
----
-layout: post
-title: Tale of Princess Kaguya
-subtitle: is moon
-tags: [test]
-permalink: kaguya
----
 
 
-<a href="{{ page.url }}"> ![image](/img/kaguya.gif) </a> <!-- {:class="img-responsive"} --> 
+
+<a href="{{ page.url }}"> ![image](/img/kaguya.gif) </a> <!-- {:class="img-responsive"} -->
 
 It's really.. really quite beautiful.. never seen anything quite like it honestly it's kinda different
 
