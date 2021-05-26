@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: Generating Receptivity
+permalink: Receptivity
 ---
 
 <a href="{{ page.url }}"> ![image](/img/duality.gif)
