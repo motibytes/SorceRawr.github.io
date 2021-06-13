@@ -3,7 +3,13 @@ layout: post
 permalink: Receptivity
 ---
 
-<a href="{{ page.url }}"> ![image](/img/duality.gif)
+<a href="{{ page.url }}"> ![image](/img/duality.gif) </a> 
+
+
+<!--
+<a href="{{ page.url }}"> ![image](/img/unused-energy-11.gif) </a>
+-->
+
 
 Listen genuinely and others will desperately desire to genuinely hear you.
 

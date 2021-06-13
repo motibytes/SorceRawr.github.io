@@ -4,8 +4,8 @@ permalink: fame
 ---
 
 
-<a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
-
+<a href="{{ page.url }}"> ![image](/img/unused-energy-17.gif) </a>
+<!-- 17 -->
 
 Fame has been on the mind ever since realizing that Dorothy Parker was friends with F. Scott Fitzgerald who was friends with Ernest Hemingway.
 These were amazing people for sure.

@@ -3,6 +3,7 @@ layout: post
 permalink: RadicalAntiLack
 ---
 
+<a href="{{ page.url }}"> ![image](/img/unused-energy-07.gif) </a>
 
 <!-- change to 06-07 after testing done -->
 
