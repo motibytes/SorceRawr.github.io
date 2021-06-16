@@ -21,7 +21,6 @@ time, mark, audio, video {
 	list-style: none !important; /* removed list dots */
 }
 body {
-
   font-family: 'Press Start 2P', cursive;
   color: #999999;
   position: relative;
@@ -538,3 +537,13 @@ a { /* fixes main site color on twitter page but affects all */
   -webkit-text-fill-color: transparent;
 	text-decoration: underline;
 }
+/*
+#end {
+	font-size: 1.5em;
+
+}
+#jtb {
+	font-family: 'Emilys Candy', cursive;
+	font-size: 2em;
+}
+*/
