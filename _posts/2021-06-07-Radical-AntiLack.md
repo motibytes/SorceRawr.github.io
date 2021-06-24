@@ -75,7 +75,7 @@ choosing this focus until that focus becomes familiar. What is familiar to us is
 
 The focus to get out of the lacking worldview and into abundance is gratitude. Gratitude is a kind of practice of an action because it is not simply a thought, it is a thought accompanied by feeling. These kinds of thoughts, charged with emotion, are more powerful than dead repetition, and have the power to shift what our world looks and feels like, into another worldview.
 
-To do this, choose something to feel grateful for, then set the Intention to feel thankful for the thing. The intention is the only important part, and that is enough to generate the thankfulness. This thankfulness is Appreciation, to appreciate the value of something that you are grateful is here and not lost.
+To do this, choose something to feel grateful for, then set the Intention to feel thankful for the thing. The intention is the only important part, and that is enough to generate the thankfulness. This thankfulness is Appreciation, to appreciate the value of something that you are grateful is here and not lost. This feeling is the feeling that something is wonderful, remarkable, exciting, interesting. If this absolutely does not work for you in the slightest, then imagine what it would feel like to feel such feelings. Pretend that it is marvelous.
 
 Choose your heartbeat, or your breath, or water, or light, or air to be grateful for, and look into its true value. We tend to diminish the value of incredibly important gifts of life because of
 their vast abundance and because we do not expect them to leave us. However, there is no guarantee that you will have another breath after this moment at all. This precious gift and many others
@@ -98,7 +98,7 @@ good virtues you want and technically already possess [examples: confidence, str
 
 
 The button below randomizes and mashes together some of the prayers from my last Book of Power, to give an example of what kinds of gratitude prayers are possible to write.
-If you can write 10 of these a day, focus your intention to feel appreciation for it, it will shift your experience of this wonderful life. 
+If you can write 10 of these a day, focus your intention to feel appreciation for it, it will shift your experience of this wonderful life.
 
 <div id=""> <!-- test without this div also to see output!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 <button id="firebutton" onclick="fire()"> Generate Gratitude </button>
