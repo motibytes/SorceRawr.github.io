@@ -21,7 +21,84 @@ permalink: RadicalAntiLack
 </style>
 
 
-this page is being actively worked on, come back later
+It was brought to my attention several times that Lack may be the most pronounced issue most
+people seem to be stuck in at this time. This is no surprise, as, Lack is a difficult dragon
+to slay, and requires a radical solution to solve.
+
+There are principles in life that can be understood mentally but which are we
+ourselves unable to implement into our actual lives. One of the largest of these
+principles concerns gratitude. The perspective it concerns is that we are all currently
+living in abundance.
+
+An introduction to this might be the statement,
+"You can't take it with you." This is to say that you cannot take material possessions
+with you after you die. This statement diminishes the value of physical treasures,
+and reminds one that there are treasures more valuable than what is made of physical matter.
+
+This remembrance can lead to the insight that what costs money is often replaceable,
+and that the best things in life are free. That is that the joys of life, the sky and clouds,
+family, love, beauty are free. The fact is that people operating within society, even homeless
+populations, are living in an abundance of life's true blessings and treasures, and often have
+access to physical abundance as well. The man with a gun pointed at his head remembers this in
+a second, that the gift of himself being alive and capable of breathing is priceless.
+
+It can be admittedly an annoyance to be told and reminded that we are blessed. We find that
+the awareness of this being blessed barely raises our spirits and if it does bring us consolation,
+it consoles for only a moment. This is because this image, this idea, is just another passing thought.
+It does not reflect the construction of our mental world, and so it does not really stick.
+
+The world we are programmed with is a world of need and desire, of wants and haves and dreams of
+fulfillment, all future oriented. We do not spend our time thinking about all that we currently have,
+only what we could have.  
+
+This, as is becoming well known, creates our culture of lack. A lacking person will always be lacking,
+because his thoughts are lacking and he is defined by lack, driven to being close to dead or wishing he were.
+A blessed person has the opposite experience, acting as a wellspring of life overflowing into every area of his attention and focus.
+
+Anyone who has been alive long enough to experience the world comes to see that these are not delusional perspectives of optimism or pessimism that do not reflect reality. The outside world transpires to confirm the viewpoint of a person, whether their thoughts are rich or poor. Tragedies strike the cynic for no fault of his own, and the rich fellow just happens to stumble into fortunes and successes for no apparent reason at all.  
+
+Now, what changes the life of a person is the shift of their entire world view. The filter and lens and perspective through which they see the entirety of the present moment. A lacking person does not change
+simply by thinking for a moment that he is abundant. His mindset remains the same as it were a moment ago.
+
+This is because there are really no other branching thoughts about abundance in his mind to connect to, to continue thinking from. All of his other thoughts may be about worries and doubts and ailments and stresses
+and desires. This is not someone who is thinking about love and peace and appreciation and wonder and inspiration, those things are annoying and far away and foreign to him. Unfamiliar, they have no place in his practical life.
+
+For the lacking person to change, the daily thinking has to change so dramatically that there is a mental shift. What is easy to forget is that thought and thinking, is an action. We may not always intend to think,
+and yet it is an action. It is a repeated action that becomes a practice. This practice every day becomes who we are and what we are, and we have become what we think about.
+
+I can be a lacking person if I choose to practice thinking about being lacking every day. Imagine how much I can hurt myself by practicing thinking self destructive and negative thoughts every day, and imagine how many people are practicing this right now.  
+
+The unfortunate part, we know that thinking things over and over doesn't make us believe them and doesn't make it stick. A lot of us don't have the willpower to do such a mental exercise anyway.   
+
+Fortunately, we do not need to put effort into having certain thoughts at all. We only have to set our focus on a target, and from that focus thoughts arise in us. All one has to do is keep
+choosing this focus until that focus becomes familiar. What is familiar to us is the comfort zone we tend to drift towards even when we forget our goals and intentions.
+
+The focus to get out of the lacking worldview and into abundance is gratitude. Gratitude is a kind of practice of an action because it is not simply a thought, it is a thought accompanied by feeling. These kinds of thoughts, charged with emotion, are more powerful than dead repetition, and have the power to shift what our world looks and feels like, into another worldview.
+
+To do this, choose something to feel grateful for, then set the Intention to feel thankful for the thing. The intention is the only important part, and that is enough to generate the thankfulness. This thankfulness is Appreciation, to appreciate the value of something that you are grateful is here and not lost.
+
+Choose your heartbeat, or your breath, or water, or light, or air to be grateful for, and look into its true value. We tend to diminish the value of incredibly important gifts of life because of
+their vast abundance and because we do not expect them to leave us. However, there is no guarantee that you will have another breath after this moment at all. This precious gift and many others
+are allowing you to experience a world rich with sensation, beauty, emotion, wonder, and deeper phenomena if you begin to search for them.
+
+Developing appreciation through gratitude is the first area to grow your awareness of a world of abundance. It can be said that while you are the one practicing gratitude,
+it is not you who opens up your awareness to appreciation, your awareness opens and your perspective widens without you doing anything at all. When you see this other reality,
+and color fills your world, and you become rich, you can explore and open up to the other fruits of the heart, the treasures that come from goodness.
+
+Just as worry, doubt, anxiety, fear, perpetuate and together create one reality, so too is another reality composed of its own elements that can be lived in. When you fall out of the better reality
+again, just remember the gate that will let you enter through again. The gate is gratitude.
+
+Remember also that to achieve this feat of appreciation is to change who you are. You become a person who appreciates. People who appreciate life, well, they tend to be rich, because they know
+they are already rich.
+
+There are many ways to practice gratitude until it opens us up to the reality of abundance. My preferred method is creating what I like to call a Book of Power, containing in it 'gratitude prayers' to God and divinity on pen and paper. This exercise and gratitude in general help keep in mind what you are being appreciative of. There is more to appreciate in that which has more value,
+that which is good, and full of life. There is plenty to appreciate in material items like cars and suits, but not on the depth and level that will open your eyes up to a deeper world of blessing.
+This mindful selection is what will guide your focus into far greater blessings than you ever realized you could attain, especially after you come to realize that if you thank god for the
+good virtues you want and technically already possess [examples: confidence, strength, wisdom], you will see those good virtues come out of you, as if to confirm what you had thanked God for.
+
+
+The button below randomizes and mashes together some of the prayers from my last Book of Power, to give an example of what kinds of gratitude prayers are possible to write.
+If you can write 10 of these a day, focus your intention to feel appreciation for it, it will shift your experience of this wonderful life. 
 
 <div id=""> <!-- test without this div also to see output!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 <button id="firebutton" onclick="fire()"> Generate Gratitude </button>
