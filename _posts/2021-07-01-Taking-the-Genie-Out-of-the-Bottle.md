@@ -28,6 +28,7 @@ Now take three steps back, and leave your philosophy at the door. You're going t
 
 Good in this context is what is good for your soul, what grows and nurtures it rather than withers and harms it. A main theme here is that we do not
 always aspire towards what is actually good for us. This isn't a bad thing, it's just that the fulfillment our desires often do not grant what we had hoped for. Let's say I really want that Pontiac, because it will make me feel proud and confident about myself. Feeling proud and confident are good feelings, these *are* good things. There's also nothing wrong with a car. It's just that the car will not grant those emotional feelings.
+
 [ Upon watching [this documentary](https://www.youtube.com/watch?v=DnPmg0R1M04&lc) that shows how we were mass manipulated reprogrammed to identify the essence of our selves with materialism, you might ask yourself if anyone believed they could fulfill their desires with consumerism before the 1900s.]
 
 We've established that the genie will not grant you something you wish for that does not actually grant the emotional desire you are seeking. The genie will grant that which it is associated with, goodness. So let's identify what this may include. Here are the Christian and Catholic fruits of the spirit.
@@ -38,9 +39,9 @@ We've established that the genie will not grant you something you wish for that 
 
 Something important here is that there are principles in this world that can hinder, interfere with your ability to attain a great many things. "Against such things there is no law", means that there is no principle preventing you from accessing the things of this nature. In a videogame, we might call this a kind of cheat code, such as exploiting an 'infinite money glitch'.
 
-Goodness may seem to be a small constrictive box from which to operate in until you see it open up, and see that goodness contains every attribute you most desire. Wisdom, resilience, confidence, strength, clarity, focus, resoluteness, all that man aspires towards. Below are Benjamin Franklin's famous virtues that I often share.   
+Goodness may seem to be a small constrictive box from which to operate in until you see it open up, and see that goodness contains every attribute you most desire. Wisdom, resilience, confidence, strength, clarity, focus, resoluteness, all that man aspires towards. Below are Benjamin Franklin's famous virtues I often share.   
 
-![Broken image: Temperance Silence Order Resolution Frugality Industry Sincerity Justice Moderation Cleanliness Chastity Tranquility Humility](/img/benjaminvirtue.jpeg)
+![Broken image: Temperance Silence Order Resolution Frugality Industry Sincerity Justice Moderation Cleanliness Chastity Tranquility Humility](/img/benjaminvirtue.jpg)
 
 These are simply inspiration, as again you can start with the virtues that you most desire to have.
 
