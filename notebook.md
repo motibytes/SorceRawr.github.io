@@ -63,12 +63,12 @@ https://www.amazon.com/gp/product/0316184136/ref=as_li_tl?ie=UTF8&camp=1789&crea
 <!-- stories of our lives -->
 <a target="_blank"  href="https://www.amazon.com/gp/product/0393708152/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393708152&linkCode=as2&tag=jamesbytes0b-20&linkId=301b24bce1c29fd5ecf402f98d8d02b2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0393708152&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=jamesbytes0b-20" ></a>
 
-<!-- # Videos -->
-Century of the Self
 
 <!-- Links -->
 <!-- ayla? -->
-<!-- Poetry Foundation--> 
+<!-- Poetry Foundation-->
+<!--
 <br>
 [My GoodReads Review of The Alchemist](https://www.goodreads.com/review/show/4009934069) <br>
 [My GoodReads Review of The Complete Poems of Emily Dickinson](https://www.goodreads.com/review/show/4009979778)
+--> 
