@@ -1,4 +1,12 @@
-Take the Genie Out of the Fucking Bottle
+---
+layout: post
+permalink: genie
+---
+
+<a href="{{ page.url }}"> ![image](/img/unused-energy-13.gif) </a>
+
+
+This post has not been finalized, working on some layout changes to sorcerawr..
 
 I'd like to save you some time. You have a genie in a bottle. You always have. You probably believe that
 wishes don't come true, because when you were a child, you watched people pray, and you watched their prayers go unanswered.
@@ -24,7 +32,7 @@ always aspire towards what is actually good for us. This isn't a bad thing, it's
 
 We've established that the genie will not grant you something you wish for that does not actually grant the emotional desire you are seeking. The genie will grant that which it is associated with, goodness. So let's identify what this may include. Here are the Christian and Catholic fruits of the spirit.
 
-![broken image: Charity Joy Peace Patience Benignity Goodness Longanimity Mildness Faith Modesty Continency Chastity](/img/holyspiritfruit.jpeg)
+![broken image: Charity Joy Peace Patience Benignity Goodness Longanimity Mildness Faith Modesty Continency Chastity](/img/fruit.jpg)
 
 ![broken image: But the fruit of the spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law. Galatians 5:22-23](/img/spiritfruit.png)
 
@@ -78,4 +86,4 @@ After Wisdom, I seek out creativity, because honestly that's all I really give a
 A last warning on the distinction between wishful thinking and working with these principles. Wishful thinking is simply delusion, fantasy, imagination that will not come into form, when you do not participate. Another perspective to take is that you will always move toward what you want most. You may want security and comfort more than the desire you wish for, and so you will not have the desire you wish for, because you move towards
 what you desire most. Remember Benjamin Franklin's virtues? He moved towards them. Below was his calendar to track virtues. By tracking virtues, he focused on virtues. By focusing on them, he moved towards them to become who he aspired to be.
 
-![Broken image: Benjamin Franklin's calendar tracking virtues with X crossmarks for each day he demonstrated these virtues in his life by day of the week](/img/benjamincalendar.jpeg)
+![Broken image: Benjamin Franklin's calendar tracking virtues with X crossmarks for each day he demonstrated these virtues in his life by day of the week](/img/benjamincalendar.jpg)
