@@ -5,9 +5,6 @@ permalink: genie
 
 <a href="{{ page.url }}"> ![image](/img/unused-energy-13.gif) </a>
 
-
-[Post has not been finalized, working on some layout changes to sorcerawr..]
-
 I'd like to save you some time. You have a genie in a bottle. You always have. You probably believe that
 wishes don't come true, because when you were a child, you watched people pray, and you watched their prayers go unanswered.
 This may come as a surprise, but those same people who don't know how to tie their own shoes, they also don't know how to pray.

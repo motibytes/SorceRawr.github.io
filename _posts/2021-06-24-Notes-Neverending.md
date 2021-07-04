@@ -57,6 +57,45 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 
 
+<h2> Big Magic I </h2>
+
+You do not need a permission slip from the principal's office to live a creative life. <br>
+Or if you do worry that you need a permission slip--- <br>
+THERE, I just gave it to you. <br>
+I just wrote it on the back of an old shopping list. <br>
+Consider yourself fully accredited. <br>
+Now go make something. <br>
+<br>
+Paradox, It matters./It doesn't matter.<br>
+Build space in your head for this paradox <br>
+<br>
+"My creative expression must be the most important thing in the world to me (if I am to live artistically), and it also must not matter to me at all (if I am to live sanely)" <br>
+<br>
+'It ain't what they call you, it's what you answer to' <br>
+<br>
+What a wonderful life I've had. I only wish I'd realized it sooner. <br>
+<br>
+
+
+<h2> Dickinson </h2>
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+Will there really be a "Morning"?
+Is there such a thing as "Day"?
+Could I see it from the mountains
+If I were as tall as they?
+
+Has it feet like Water lilies?
+Has it feathers like a Bird?
+Is it brought from famous countries
+Of which I have never heard?
+
+Oh some Scholar! Oh some Sailor!
+Oh some Wise Man from the skies!
+Where to tell a little Pilgrim
+Where the place called "Morning" lies!
+</code></pre></figure>
+
 <h2> Dickinson </h2>
 
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
@@ -116,25 +155,6 @@ Old fashioned - naughty - everything
 Over the stile of "Pearl."
 
 </code></pre></figure>
-
-<h2> Gilbert </h2>
-
-You do not need a permission slip from the principal's office to live a creative life. <br>
-Or if you do worry that you need a permission slip--- <br>
-THERE, I just gave it to you. <br>
-I just wrote it on the back of an old shopping list. <br>
-Consider yourself fully accredited. <br>
-Now go make something. <br>
-<br>
-Paradox, It matters./It doesn't matter.<br>
-Build space in your head for this paradox <br>
-<br>
-"My creative expression must be the most important thing in the world to me (if I am to live artistically), and it also must not matter to me at all (if I am to live sanely)" <br>
-<br>
-'It ain't what they call you, it's what you answer to' <br>
-<br>
-What a wonderful life I've had. I only wish I'd realized it sooner. <br>
-<br>
 
 <h2> Sirach </h2>
 
