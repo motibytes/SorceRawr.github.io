@@ -3,17 +3,13 @@ layout: default
 ---
 <div id="main">
 
-<div id="postdiv" >
+<div id="postdiv">
 
 <h1>{{ page.title }}</h1>
-<br>
-
-
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
-<div id="thecontent">
-  <br>
+
 {{ content }}
-</div>
+
 <ul>
   {% for post in site.posts %}
   <div id="thefeed" >
@@ -23,7 +19,7 @@ layout: default
     </li>
   </div>
     <br>
-    <div style=" margin: auto ">
+    <div style=" margin: auto !important;">
       <!-- {{ 'img/coin.png' | relative_url }} -->
     <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>
     <img src="{{ 'img/coin.png' | relative_url }}" style="max-width: 2em;"> </img>

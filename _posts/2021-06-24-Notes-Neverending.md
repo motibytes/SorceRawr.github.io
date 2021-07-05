@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postshort
 title: Note Neverending
 subtitle:
 permalink: noteneverending

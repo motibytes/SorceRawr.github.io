@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postshort
 permalink: trades
 ---
 <a href="{{ page.url }}"> ![image](/img/crypto.gif) </a> <!-- {:class="img-responsive"} -->
