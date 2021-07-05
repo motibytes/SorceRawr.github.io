@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-07-04T02:46:02-04:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Games</title><link href="https://sorcerawr.com/2021/07/03/Games.html" rel="alternate" type="text/html" title="Games" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://sorcerawr.com/2021/07/03/Games</id><content type="html" xml:base="https://sorcerawr.com/2021/07/03/Games.html">&lt;p&gt;&lt;a href=&quot;/2021/07/03/Games.html&quot;&gt; &lt;img src=&quot;/img/unused-energy-24.gif&quot; alt=&quot;image&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-07-04T21:31:00-04:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Games</title><link href="https://sorcerawr.com/2021/07/03/Games.html" rel="alternate" type="text/html" title="Games" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://sorcerawr.com/2021/07/03/Games</id><content type="html" xml:base="https://sorcerawr.com/2021/07/03/Games.html">&lt;p&gt;&lt;a href=&quot;/2021/07/03/Games.html&quot;&gt; &lt;img src=&quot;/img/unused-energy-24.gif&quot; alt=&quot;image&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Games I’m currently interested in&lt;/p&gt;
 
@@ -618,17 +618,17 @@ Because when we love, we always strive to become better than we are.
 &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;style&gt;
-  #prayer {
+  #outputhtml { /* i dont even think this code is active wtf */
     font-family: 'Playfair Display', serif;
     color: #33302e;
     background-color: #fff1e5;
     padding: 0px 16px 0px 24px;
-    font-size: 36px;
+    font-size: 32px;
   }
 &lt;/style&gt;
 
-&lt;p&gt;Lack may be among the most pronounced issue people are stuck in at this time. This is no surprise, as, Lack is a difficult dragon
-to slay, and requires a radical solution to solve.&lt;/p&gt;
+&lt;p&gt;Lack is a difficult dragon for our society to slay. As our system created this problem in a
+radical way, the issue of destroying Lack requires a radical solution.&lt;/p&gt;
 
 &lt;p&gt;There are principles in life that can be understood mentally but which are we
 ourselves unable to implement into our actual lives. One of the largest of these

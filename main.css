@@ -302,10 +302,9 @@ h6 {
   color: #303030;
 }
 
-p {
+p { /* custom !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
   margin-bottom: 20px;
-  font-weight: 300;
-
+  font-weight: 400;
 }
 
 a {
@@ -421,7 +420,7 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 
-/* all my code */
+/* all my code !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
 #main {
   background: #111111 url(img/liquidgold.jpg) 0 0 no-repeat;
@@ -454,12 +453,25 @@ footer a:hover {
   color: #20C20E;
 }
 #postdiv {
-	font-family: 'IBM Plex Mono', monospace;
+	/*  font-family: 'IBM Plex Mono', monospace; I want to use this for non article pages !!!!!!!!!!!!!!!!!!!!!!!!!  I'll need another post div*/
+	font-family: 'Playfair Display', serif;
+  font-size: 18px;
+	line-height: 1.5;
+	letter-spacing: .6px; /*font styling */
+  /*	background: #111111; */
 	background: #111111;
 	max-width: 42em;
 	margin: auto;
   text-align: center;
 	color: white;
+
+	font-weight: 400 !important;
+
+}
+#thecontent {
+	background-color: #fff1e5;
+	color: black;
+
 }
 /*
 img {
