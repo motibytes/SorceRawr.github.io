@@ -3,13 +3,15 @@ layout: default
 ---
 <div id="main">
 
-<div id="postdiv" style="color: #fff1e5 !important">
+<div id="postdiv" >
 
 <h1>{{ page.title }}</h1>
 <br>
 
-<div id="thecontent">
+
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<div id="thecontent">
+  <br> 
 {{ content }}
 </div>
 <ul>
