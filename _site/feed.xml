@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-07-03T23:20:43-04:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Games</title><link href="https://sorcerawr.com/2021/07/03/Games.html" rel="alternate" type="text/html" title="Games" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://sorcerawr.com/2021/07/03/Games</id><content type="html" xml:base="https://sorcerawr.com/2021/07/03/Games.html">&lt;p&gt;&lt;a href=&quot;/2021/07/03/Games.html&quot;&gt; &lt;img src=&quot;/img/unused-everything-you-see.webp&quot; alt=&quot;image&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sorcerawr.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sorcerawr.com/" rel="alternate" type="text/html" /><updated>2021-07-04T02:46:02-04:00</updated><id>https://sorcerawr.com/feed.xml</id><title type="html">SorceRawr</title><subtitle>The Source of the best Media in the Matrix.</subtitle><author><name>James Bytes</name></author><entry><title type="html">Games</title><link href="https://sorcerawr.com/2021/07/03/Games.html" rel="alternate" type="text/html" title="Games" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://sorcerawr.com/2021/07/03/Games</id><content type="html" xml:base="https://sorcerawr.com/2021/07/03/Games.html">&lt;p&gt;&lt;a href=&quot;/2021/07/03/Games.html&quot;&gt; &lt;img src=&quot;/img/unused-energy-24.gif&quot; alt=&quot;image&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Games I’m currently interested in&lt;/p&gt;
 
@@ -119,6 +119,8 @@ Brene Brown
   font-size: 1.5em;
   color: black;
   font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  letter-spacing: .6px;
 }
 #notetext {
   text-align: left;
@@ -129,6 +131,7 @@ Brene Brown
 
     background-image: url(/img/paper2.png);
     background-repeat: repeat;
+
 }
 &lt;/style&gt;
 

@@ -38,6 +38,8 @@ Brene Brown
   font-size: 1.5em;
   color: black;
   font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  letter-spacing: .6px;
 }
 #notetext {
   text-align: left;
@@ -48,6 +50,7 @@ Brene Brown
 
     background-image: url(/img/paper2.png);
     background-repeat: repeat;
+
 }
 </style>
 
