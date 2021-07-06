@@ -59,6 +59,144 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 
+<br>
+<h1> The Artists Way Week I </h1>
+<!--
+Caught between the dream of action and the fear of failure, shadow artists are born.. <br>
+Artists themselves but ignorant of their true identity, shadow artists are to be found shadowing declared artists. Unable to recognize that they themselves
+possess the creativity they so desire..<br>
+hiding in the shadows, afraid to step out and expose the dream to the light, fearful that it will disintegrate to the touch.. <br>
+<br>
+-->
+Shadow artists often choose shadow careers--those close to the desired art, even parallel to it, but not the art itself. <br> <br>
+
+Shadow artists jude themselves harshly..[for]..not acting on their dreams..this cruelty reinforces [this] status..it takes nurturing to make an artist..<br>
+Shadow artists did not receive sufficient nurturing..still blame themselves for not acting fearlessly anyhow.<br>
+<br>
+Many unable to make their way through the cultural maze..<br>
+<br>
+..afraid to take themselves seriously..must nurture their artist child..Creativity is play..for shadow artists..learning to allow themselves to play is hard work.<br>
+<br>
+Typically, The recovering shadow artist will use these early efforts to discourage continued exploration. <br>
+Judging your early artistic efforts is artist abuse. <br>
+<br>
+abuse..measuring art against masterworks of other artists..exposes art to premature criticism..overly critical friends..behaves with art form of mastered masochism
+to attack with self-hate to beat himself back into the shadows. <br>
+<br>
+necessary to go gently and slowly..healing old wounds..not creating new ones..mistakes are necessary..stumbles are normal.. progress, not perfection..
+marathon training..ten slow miles for every one fast mile..embarassing process..won't look good to ourselves or others..stop demanding we do(look good).. <br>
+<br>
+<b> It is impossible to get better and look good at the same time. </b> <br>
+<br>
+..to recover as an artist..you must be willing to be a bad artist..give permission to be a beginner..
+[if you are] willing to be a bad artist..you have a chance to - be -  an artist. <br>
+<br>
+Core Negative Beliefs:  <br>
+<br>
+When we are blocked [often] we feel safer that way. If I am fully creative what will it mean? What will happen..what could happen..rather than find out..we stay blocked..rarely a conscious decision.<br><br>
+<br>
+I can't be a prolific, creative artist because: <br>
+Everyone will hate me <br>
+Will hurt friends + family <br>
+Will go crazy <br>
+Abandon friends + family <br>
+Can't spell <br>
+Not good enough ideas <br>
+Upset mom + dad <br>
+Will be alone <br>
+Will find out I'm gay <br>
+Will be struck straight <br>
+Will do bad work without knowing it look like a fool <br>
+Will feel too angry <br>
+Will never have real money <br>
+Will get self destructive <br>
+Will get sick <br>
+Will be abandoned by lover <br>
+Will die <br>
+Will feel bad from undeserving to be successful <br>
+Will only have one good piece of work in me <br>
+It's too late, haven't become artist yet, never will.<br>
+<br>
+None of these need to be true. Confronting them. These are beliefs, not facts. <br>
+You are not dumb, crazy, egomaniacal, grandiose, silly because you falsely believe yourself to be. <br>
+<br>
+Beliefs + Alternatives <br>
+<br>
+artists are <br>
+drunk - sober <br>
+crazy - sane <br>
+broke - solvent  <br>
+irresponsible - responsible  <br>
+loners - user-friendly  <br>
+promiscuous - faithful <br>
+doomed - saved <br>
+unhappy - happy <br>
+born, not made - discovered and recovered <br>
+<br>
+Multiple negative beliefs reveal a central negative belief: <br>
+<b> We must trade one good, beloved dream for another. </b> <br>
+<br>
+<b>If being an artist seems too good to be true, I will devise a price tag that strikes me as unpayable.. and remain blocked. </b> <br>
+<br>
+Most blocked creatives <b> carry unacknowledged either/or reasoning </b> that stands between them and their work.<br>
+<br>
+block doesn't want you to see [you can have both, happy + success / finance + artist / etc.], it's plan of attack, make you irrationally afraid of dire outcome
+you are too embarrased to mention, because it is a silly fear, you don't air it and a block stays intact. <br>
+<br>
+This week we will excavate your unconscious beliefs by using some logic-brain / artist-brain learning tricks. These may strike you as hokey and unproductive, <b> that is resistance </b>.
+What follows is very effective weaponry. <br>
+<br>
+Affirmations <br>
+<br>
+Censors loath what sounds like self worth. <br>
+<br>
+I, [name], am a brilliant and prolific [creator]. <br>
+<b> write this ten times. </b> <br>
+<br>
+While doing that, your Censor will start to object. Objections are your blurts..Listen to the objections. Look at the ugly, stumpy little blurts.. <b> Write them down. </b <br>
+These blurts flag your personal negative core beliefs. <br>
+<br>
+Paul's core negative belief was that he was only kiddin that he could write. <br>
+Whenever people complimented him on his work, he was deeply suspicious of them and their motives. <br>
+He had all but dropped friends once they had expressed interest in his talents; he had certainly stopped trusting them. <br>
+<br>
+Turn now to your own list of blurts..each of them must be dissolved. Convert the blurt to an affirmation. Use your affirmations after your morning pages.
+<br>
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+Creative Affirmations List:
+
+1. I am a channel for God's creativity, and my work comes to good.
+2. My dreams come from God and God has the power to accomplish them.
+3. As I create and listen, I will be led.
+4. Creativity is the creator's will for me.
+5. My creativity heals myself and others.
+6. I am allowed to nurture my artist.
+7. Through the use of a few simple tools, my creativity will flourish.
+8. Through the use of my creativity, I serve God.
+9. My creativity always leads me to truth and love.
+10. My creativity leads me to forgiveness and self-forgiveness.
+11. There is a divine plan of goodness for me.
+12. There is a a divine plan of goodness for my work.
+13. As I listen to the creator within, I am led.
+14. As I listen to my creativity I am led to my creator.
+15. I am willing to create.
+16. I am willing to let myself create.
+17. I am willing to let God create through me.
+18. I am willing to be of service through my creativity.
+19. I am willing to experience my creative energy.
+20. I am willing to use my creative talents.
+</code></pre></figure>
+
+<br>
+[ <br>
+Summary: <br>
+1. Write Affirmation Statement such as I, [name], am a brilliant and prolific [creator].<br>
+2. Write down the objections you hear.<br>
+3. Turn those objections into a list of core negative beliefs.<br>
+4. Create a counter list to the objections with new affirmations.<br>
+]<br>
+<br>
 
 <h2> Big Magic I </h2>
 
