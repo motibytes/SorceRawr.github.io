@@ -653,7 +653,7 @@ so to say, makes the loss seem less deplorable..."[15] <br>
 
 <br><br>
 
-<h2> Alchemist: </h2> <br>
+<h2> Alchemist </h2> <br>
 
 That's what alchemists do. They show that, when we strive to be better than we are, <br>
 everything around us becomes better, too. <br>
@@ -662,6 +662,3 @@ It is we who nourish the Soul of the World, <br>
 <br>
 Because when we love, we always strive to become better than we are.
 <br>
-
-
-</div>
