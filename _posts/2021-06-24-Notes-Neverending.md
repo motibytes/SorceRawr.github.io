@@ -8,7 +8,7 @@ permalink: noteneverending
 
 <a href="{{ page.url }}"> ![image](/img/unused-energy-02.gif) </a>
 
-Pouring into a data stream.
+Pouring into a data stream, as I log the path I'm taking to get where I'm going, as the road becomes narrow, as the path carves and arranges itself into a straight form.
 
 link: [books and resources from these notes](https://sorcerawr.com/notebook)
 
