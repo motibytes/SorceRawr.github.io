@@ -60,6 +60,8 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 
 <br>
+This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br>
+ <br>
 <h1> The Artists Way Week I </h1>
 <!--
 Caught between the dream of action and the fear of failure, shadow artists are born.. <br>
