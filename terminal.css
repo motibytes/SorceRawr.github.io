@@ -1,0 +1,68 @@
+
+.screen {
+  animation:colorPulse 3.5s infinite ease-in-out;
+
+  text-align:center;
+}
+
+.screen:before {
+  animation:wave 10s infinite ease-in-out;
+  content:"";
+  height:100%;
+  left:0;
+  opacity:.5;
+  pointer-events:none;
+  position:absolute;
+  right:0;
+  top:100px;
+  z-index:1;
+}
+
+.screen:after {
+
+  background-size:4px 4px;
+  bottom:0;
+  content:"";
+  left:168px;
+  pointer-events:none;
+  position:absolute;
+  right:0;
+  top:0;
+  z-index:2;
+}
+
+@keyframes colorPulse {
+  0%, 100% {
+    color:#0c0;
+  }
+  48%, 52% {
+    color:#090;
+  }
+  50% {
+    color:#060;
+  }
+}
+
+@keyframes wave {
+  0% {
+    box-shadow:0 -10vh 20vh #0c0;
+    top:-100%;
+  }
+  48%, 52% {
+    box-shadow:0 -10vh 20vh #090;
+  }
+  50% {
+    box-shadow:0 -10vh 20vh #060;
+  }
+  100% {
+    box-shadow:0 -10vh 20vh #0c0;
+    top:100%;
+
+  }
+}
+
+@keyframes blink {
+  50% {
+    opacity:0;
+  }
+}
