@@ -8,7 +8,7 @@ permalink: noteneverending
 
 <a href="{{ page.url }}"> ![image](/img/unused-energy-02.gif) </a>
 
-Pouring into a data stream, as I log the path I'm taking to get where I'm going, as the road becomes narrow, as the path carves and arranges itself into a straight form.
+Pouring into a data stream of refined creativity. <!-- as I log the path I'm taking to get where I'm going. , as the road becomes narrow, as the path carves and arranges itself into a straight form. -->
 
 link: [books and resources from these notes](https://sorcerawr.com/notebook)
 
@@ -58,12 +58,7 @@ Brene Brown
 <div id="notetext">
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
-
-
-
-
-This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br>
- <br>
+<!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
  <h2> Dickinson </h2>
 
@@ -74,7 +69,7 @@ This document started with a thought, what if the notes on the road of the searc
  </code></pre></figure>
 
  <br>
-  
+
 <h1> The Artists Way Week I </h1>
 <!--
 Caught between the dream of action and the fear of failure, shadow artists are born.. <br>
@@ -311,6 +306,22 @@ Old fashioned - naughty - everything
 Over the stile of "Pearl."
 
 </code></pre></figure>
+
+<h2> 'BrainPickings' </h2>
+
+“When you’re trying to create a career as a writer, a little delusional thinking goes a long way.”  <br>
+ <br>
+“If you write what you yourself sincerely think and feel and are interested in… you will interest other people.”  <br>
+ <br>
+“The first sign of disintegration — in a writer — is that the writing loses the unique stamp of his/her character, & loses its inner light.”  <br>
+ <br>
+“A writer loves the dark, loves it, but is always fumbling around in the light.”  <br>
+ <br>
+“Man has always been half-monster, half-dreamer.”  <br>
+ <br>
+“Art is long and life is short, and success is very far off.”  <br>
+ <br>
+
 
 <h2> Sirach </h2>
 

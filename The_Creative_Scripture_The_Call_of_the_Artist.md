@@ -1,3 +1,6 @@
+---
+---
+
 <!-- preface --
 Lovers, friends, mothers, saints, scholars and brothers,
 A sight has been granted just for all of us to see,
@@ -172,3 +175,5 @@ Perhaps underneath the soil of all the earth was a great river, and wherever gar
 His imagination stretched this vision out to envision perhaps these treasures laid under the surface of not just his planet, but on however many stars out there his eyes could see.
 
 End
+
+c james t. bytes 2021 
