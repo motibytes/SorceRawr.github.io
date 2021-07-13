@@ -3,7 +3,7 @@ layout: post
 permalink: Receptivity
 ---
 
-<a href="{{ page.url }}"> ![image](/img/duality.gif) </a> 
+<a href="{{ page.url }}"> ![image](/img/duality.gif) </a>
 
 
 <!--
@@ -41,6 +41,7 @@ Recommend watching at 2x speed
 <iframe width="242" height="242"  
 src="https://www.youtube-nocookie.com/embed/saXfavo1OQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
+
 
 # 2 Reflective Power <!-- <br> (__if you watch only one video, watch this video__) -->
 

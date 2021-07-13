@@ -14,11 +14,11 @@ link: [books and resources from these notes](https://sorcerawr.com/notebook)
 
 <!--
 books
-Alchemist --
+Alchemist -- notes done..
 Dickinson --
-Happiness Project --
-Big Magic --
-Septuagint  --
+Happiness Project -- chapter 1 done
+Big Magic -- some done..
+Septuagint  -- thats a diff file
 Owning Your Own Shadow --
 Inner Gold --
 Century of the Self
@@ -59,6 +59,31 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
+
+<h2> Dickinson </h2>
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+"Have you got a Brook in your little heart,
+Where bashful flowers blow,
+And blushing birds go down to drink,
+And shadows tremble so -
+And nobody knows, so still it flows,
+That any brook is there,
+Any yet your laittle daught of life
+Is daily drunken there -
+
+Why, look out for the little brook in March,
+When the rivers overflow,
+And the snows come hurrying from the hills,
+And the bridges often go -
+
+And later, in August it may be -
+When the meadows parching lie,
+Beware, lest this little brook of life,
+Some burning moon go dry!"
+
+</code></pre></figure>
 
  <h2> Dickinson </h2>
 
