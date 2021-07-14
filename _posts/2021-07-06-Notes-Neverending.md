@@ -60,6 +60,12 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
+
+Master Letters
+
+God made me - [Sir] Master - I did'nt be - myself. I dont know how it was done. He built the heart in me - Bye and bye it outgrew me - and like the little mother - with the big child - I got tired holding him. I heard of a thing called "Redemption" - which rested men and women. You remember I asked you for it - you gave me something else. I forgot the Redemption [in the Redeemed - I did'nt tell you for a long time, but I knew you had altered me - I] and was tired - no more - [so dear did this stranger become that were it, or my breath - the Alternative - I had tossed the fellow away with a smile.]
+
+
 <h2> Dickinson </h2>
 
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
