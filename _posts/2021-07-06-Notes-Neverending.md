@@ -60,10 +60,161 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
+<br>
+<h1> Artists Way Week 2  </h1>
+<h2> Julia Cameron </h2>
+"To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer,
+is to have kept your soul alive." - Robert Louis Stevenson <br>
+<br>
+"Every time you don't follow your inner guidance, you feel a loss of energy, loss of power, a sense of spiritual deadness."<br>
+<br>
+Trusting our creativity is new behavior for many of us..We may feel and look erratic..Going sane feels just like going crazy. <br>
+<br>
+Common self attacks: ..I probably did [morning pages wrong]..need to plan something big do it right away<br>
+I'll never recover, not right away, not ever<br>
+<br>
+We can neutralize [self-doubt think] once we recognize them as a creative virus. <br>
+Affirmations antidote for self-hate, appears as self-doubt.<br>
+Common form of self-sabotage is showing someone else morning pages.<br>
+<br>
+Your artist, like a small child, is happiest when feeling a sense of security..<br>
+we must act as parent to place our artist with safe companions..<br>
+most poisonous for recovering creatives are people whose creativity is blocked <br>
+Our recovery threatens them <br>
+<br>
+When blocked,  arrogance and self-will to speak of ourselves as creative artists.<br>
+Truth is it was self-will to refuse to acknowledge our creativity.<br>
+We could wonder amd worry about arrogance instead of being humble enough to ask help to move through our
+fear. <br>
+We could fantasize about art instead of doing the work.<br>
+By not asking for Creator's help with our creativity, not seeing his hand in it, we could righteously ignore
+our creativity and never have to take the risks of fulfilling it. <br>
+Blocked friends maybe still indulging in these comforting self-delusions.<br>
+Perhaps high from martyrdom of being blocked or collect sympathy and wallow in self pity..<br>
+think how much more creative they could be then those out there doing it.<br>
+These are now toxic behaviors for you.<br>
+<br>
+<strong> Blocked friends may find your recovery disturbing.</strong><br>
+Unsettling possibility that they too could become unblocked..<br>
+<strong> Be alert to subtle sabotage from friends. </strong>.. you cannot afford their well-meaning doubt right now. <br>
+Their doubts will reactivate your own.<br>
+Be particularly alert to any suggestion that you have become selfish or different.<br>
+(red-alert words, leverage back into old ways for someone else's comfort, not your own)<br>
+<br>
+Blocked creatives..easily manipulated by guilt..feeling abandoned by our departure of being blocked..
+unconsciously guilt-trip us into giving up new healthy habits..important to understand that time for morning
+pages is between you and God.<br>
+You will be led to new sources of support as you support yourself..<br>
+<br>
+Be very careful to safeguard your newly recovering artist..<br>
+we feel we should do something else instead..our responsibilities to others..<br>
+believe such behavior makes us good people. It doesn't. It makes us frustrated people. <br>
+<br>
+The essential element in nurturing our creativity lies in nurturing ourselves. <br>
+Through self-nurturance we nurture our inner connection to the Great Creator. <br>
+<br>
+<strong> Repeat: the Great Creator has gifted us with creativity. Our gift back is our use of it. </strong> Do not let friends
+squander your time. Be gentle but firm.  <br>
+<br>
+<strong> Be an example through your own recovery. </strong> <br>
+ <br>
+Do not let their fears and second throughts derail you.  <br>
+ <br>
+ Soon techniques learned will enable to teach others..soon  <br> <strong> you will be a bridge that will allow others
+to cross over from self-doubt into self-expression.  </strong> <br>
+ <br>
+ Protect your artist by refusing to show morning pages to interested bystanders or share artist date with friends. <br>
+<br>
+<strong> Draw a sacred circle around your recovery.  <br>
+  Give yourself the gift of faith.  <br>
+  Trust that you are on the right track.  <br>
+  You are. </strong>  <br>
+   <br>
 
-Master Letters
+ You will learn that it is actually easier to write and not write..and so forth.  <br>
+  You will learn that it is easier to enjoy the process of being a creative channel
+  and to surrender your need to control the result.  <br>
+  You will discover the joy of practicing your creativity.  <br>
+  The process, not the product, will become your focus. <br>
+  Your own healing is the greatest message of hope to others. <br>
+  <br>
+  avoid.. Crazymakers are personalities that create storm centers, charismatic, frequently charming,
+  highly inventive, powerfully persuasive..like drama..the star..feeding on life energies of those around..
+  Crazymaking King..The crazymaking dynamic is grounded in power, and so any group of people can function as an
+  energy system to be exploited and drained..  <br>
+  <br>
+  (Note that I disagree with the author that the immature personality it describes is a constant and does not grow out of this infancy)  <br>
+  [Negative] Crazymakers break deals and expect special treatment..discount your reality.. spend your time and money..triangulate those they deal with..expert blamers..create dramas..hate schedules..hate order..deny that they are crazymakers.<br>
+  We fear if we let ourselves be creative, we will become crazymakers ourselves and abuse those around us. <br>
+  <br>
+  The secret doubt..deeply held skepticism..[if we do not] air them, they can sabotage us. Instead of stuffing feelings, we need to explore them instead.<br>
+  <br>
+  <h2>
+  <strong> The reason we think it's weird to imagine an unseen helping hand is that we still doubt that it's okay for us to be creative. </strong>
+  </h2>
+  Worth noting in a creative recovery is <strong> our reluctance to take seriously the possibility that the universe
+  just might be cooperating with our new and expanded plans. </strong> <br>
+  We've gotten brave enough to try recovery, but we don't want the universe to really pay attention. <br>
+  We still feel too much like frauds to handle some success. <br>
+  <br>
+  Any little bit of experimenting in self-nurturance is very frightening for most of us. <br>
+  When our little experiment provokes the universe to open doors, we shy away, "Hey! You! Whatever you are! Not so fast!"
+   <br>
+   [I imagine]..a door, outside..dazzling light..new ideas that we consider too far-out for us, and so we keep them there. <br>
+   <br>
+   We need new approach, set aside skepticism, when weird idea or coincidence happens, nudge door a little further open. <br>
+   <br>
+   In creative recovery it is not necessary that we cahnge any of our beliefs. It is necessary that we examine them. <br>
+   <br>
+   Creative recovery is an exercise in open-mindedness..begin this week to consciously practice opening your mind. <br>
+   <br>
+   Pain taught me pay attention..
+   <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+   In times of pain,
+   when the future is too terrifying to contemplate
+   and the past is too painful to remember,
+   I have learned to pay attention to right now.
+   The precise moment I was in was always the only safe place for me.
+   Each moment, taken alone, was always bearable.
+   In the exact now, we are all, always, all right.
+   Yesterday the marriage may have ended.
+   Tomorrow the cat may die.
+   The phone call from the lover, for all of my waiting may not ever come,
+   but just at the moment, just now, that's all right.
+   I am breathing in and out.
+   Realizing this, I began to notice that each moment was not without its beauty.
+   </code></pre></figure>
+
+   <strong> The poet William Meredith has observed that the worst that can be said of a man is that "he did not pay attention." </strong>
+
+   <h2> Rules of the Road </h2>
+
+   <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+   In order to be an artist, I must:
+
+   1. Show up at the page. Use the page to rest, to dream, to try.
+   2. Fill the well by caring for my artist.
+   3. Set small and gentle goals and meet them.
+   4. Pray for guidance, courage, and humility.
+   5. Remember it is far harder and more painful to be a blocked artist than it is to do the work.
+   6. Be alert, always, for the presence of the Great Creator leading and helping my artist.
+   7. Choose companions who encourage me to do the work, not just talk about doing the work or why I am not doing the work.
+   8. Remember that the Great Creator loves creativity.
+   9. Remember that it is my job to do the work, not judge the work.
+   10. Place this sign in my workplace: Great Creator, I will take care of the quantity.
+   You take care of the quality.
+   </code></pre></figure>
+
+   end artists way week 2 <br>
+<br><br>
+<h2> Master Letters </h2>
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
 God made me - [Sir] Master - I did'nt be - myself. I dont know how it was done. He built the heart in me - Bye and bye it outgrew me - and like the little mother - with the big child - I got tired holding him. I heard of a thing called "Redemption" - which rested men and women. You remember I asked you for it - you gave me something else. I forgot the Redemption [in the Redeemed - I did'nt tell you for a long time, but I knew you had altered me - I] and was tired - no more - [so dear did this stranger become that were it, or my breath - the Alternative - I had tossed the fellow away with a smile.]
+</code></pre></figure>
 
 
 <h2> Dickinson </h2>
@@ -127,7 +278,7 @@ to attack with self-hate to beat himself back into the shadows. <br>
 necessary to go gently and slowly..healing old wounds..not creating new ones..mistakes are necessary..stumbles are normal.. progress, not perfection..
 marathon training..ten slow miles for every one fast mile..embarassing process..won't look good to ourselves or others..stop demanding we do(look good).. <br>
 <br>
-<b> It is impossible to get better and look good at the same time. </b> <br>
+<strong> It is impossible to get better and look good at the same time. </strong> <br>
 <br>
 ..to recover as an artist..you must be willing to be a bad artist..give permission to be a beginner..
 [if you are] willing to be a bad artist..you have a chance to - be -  an artist. <br>
@@ -175,16 +326,16 @@ unhappy - happy <br>
 born, not made - discovered and recovered <br>
 <br>
 Multiple negative beliefs reveal a central negative belief: <br>
-<b> We must trade one good, beloved dream for another. </b> <br>
+<strong> We must trade one good, beloved dream for another. </strong> <br>
 <br>
-<b>If being an artist seems too good to be true, I will devise a price tag that strikes me as unpayable.. and remain blocked. </b> <br>
+<strong>If being an artist seems too good to be true, I will devise a price tag that strikes me as unpayable.. and remain blocked. </strong> <br>
 <br>
-Most blocked creatives <b> carry unacknowledged either/or reasoning </b> that stands between them and their work.<br>
+Most blocked creatives <strong> carry unacknowledged either/or reasoning </strong> that stands between them and their work.<br>
 <br>
 block doesn't want you to see [you can have both, happy + success / finance + artist / etc.], it's plan of attack, make you irrationally afraid of dire outcome
 you are too embarrased to mention, because it is a silly fear, you don't air it and a block stays intact. <br>
 <br>
-This week we will excavate your unconscious beliefs by using some logic-brain / artist-brain learning tricks. These may strike you as hokey and unproductive, <b> that is resistance </b>.
+This week we will excavate your unconscious beliefs by using some logic-brain / artist-brain learning tricks. These may strike you as hokey and unproductive, <strong> that is resistance </strong>.
 What follows is very effective weaponry. <br>
 <br>
 Affirmations <br>
@@ -192,9 +343,9 @@ Affirmations <br>
 Censors loath what sounds like self worth. <br>
 <br>
 I, [name], am a brilliant and prolific [creator]. <br>
-<b> write this ten times. </b> <br>
+<strong> write this ten times. </strong> <br>
 <br>
-While doing that, your Censor will start to object. Objections are your blurts..Listen to the objections. Look at the ugly, stumpy little blurts.. <b> Write them down. </b <br>
+While doing that, your Censor will start to object. Objections are your blurts..Listen to the objections. Look at the ugly, stumpy little blurts.. <strong> Write them down. </strong> <br>
 These blurts flag your personal negative core beliefs. <br>
 <br>
 Paul's core negative belief was that he was only kiddin that he could write. <br>
