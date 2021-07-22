@@ -60,6 +60,33 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+'Tis so much joy! 'Tis so much joy!
+If I should fail, what poverty!
+And yet, as poor as I,
+Have ventured all upon a throw!
+Have gained! Yes! Hesitated so --
+This side the Victory!
+
+Life is but Life! And Death, but Death!
+Bliss, but Bliss, and Breath but Breath!
+And if indeed I fail,
+At least, to know the worst, is sweet!
+Defeat means nothing but Defeat,
+No drearier, can befall!
+
+And if I gain! Oh Gun at Sea!
+Oh Bells, that in the Steeples be!
+At first, repeat it slow!
+For Heaven is a different thing,
+Conjectured, and waked sudden in -
+And might extinguish me!
+</code></pre></figure>
+
+
+
 <br>
 <h1> Artists Way Week 2  </h1>
 <h2> Julia Cameron </h2>
