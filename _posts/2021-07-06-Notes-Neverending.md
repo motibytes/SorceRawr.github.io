@@ -60,7 +60,9 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
-
+<br>
+It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
+<br><br>
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
 'Tis so much joy! 'Tis so much joy!
