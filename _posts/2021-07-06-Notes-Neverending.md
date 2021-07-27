@@ -59,7 +59,26 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
-
+<h1> Kahn - You Are Not A Concept </h1>
+<br>
+You are not a concept, you are a perspective, and that changes when how you relate
+to the one you're perceiving changes.  <br>
+And you change how you relate to the one you're perceiving-<br>
+by just stopping- <br>
+any which way-<br>
+you are trying to change them. <br>
+Even when insisting you're changing them for the better. <br>
+Just stop.<br>
+Stop. Forget the one you're trying to change. <br>
+And simply taste-<br>
+the changeless serenity-<br>
+of your own eternal nature. <br>
+<br>
+if your mind is noisy, let it be. <br>
+if your heart is congested with emotional turmoil. let it be. <br>
+if your ego or the unprocessed pain and fear within you is scrambling <br>
+for something to do, remember, or control, <br>
+let it be <br> 
 <br>
 It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
 <br><br>
