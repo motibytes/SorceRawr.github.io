@@ -60,6 +60,18 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+words have power to make things so.
+code has power to make things so.
+spells have power to make things so.
+
+when we write code for ourselves and our friends, code that this is written with care, with intention and with intimacy, this literally the stuff of magic
+
+— ⟴ ↭ ⥉ ⬼ ↯ ↬ (@melanieh0ff) January 10, 2020
+
+</code></pre></figure> <!--She's not wrong.. -->
+
 <h1> Yaima </h1>
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
@@ -72,7 +84,6 @@ take time.
 In this moment,
 what will you find?
 </code></pre></figure>
-
 <h1> Kahn - You Are Not A Concept </h1>
 <br>
 You are not a concept, you are a perspective, and that changes when how you relate
