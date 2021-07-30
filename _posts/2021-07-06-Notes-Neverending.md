@@ -72,7 +72,18 @@ when we write code for ourselves and our friends, code that this is written with
 
 </code></pre></figure> <!--She's not wrong.. -->
 
+<h1> Yaima </h1>
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
+Like the potter,
+spinning time.
+Like the weaver,
+weaving lines.
+Like the writer,
+take time.
+In this moment,
+what will you find?
+</code></pre></figure>
 <h1> Kahn - You Are Not A Concept </h1>
 <br>
 You are not a concept, you are a perspective, and that changes when how you relate
@@ -88,13 +99,14 @@ And simply taste-<br>
 the changeless serenity-<br>
 of your own eternal nature. <br>
 <br>
-if your mind is noisy, let it be. <br>
-if your heart is congested with emotional turmoil. let it be. <br>
-if your ego or the unprocessed pain and fear within you is scrambling <br>
+If your mind is noisy, let it be. <br>
+If your heart is congested with emotional turmoil. let it be. <br>
+If your ego or the unprocessed pain and fear within you is scrambling <br>
 for something to do, remember, or control, <br>
-let it be <br>
+let it be. <br>
 <br>
-It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
+<h1>net.art  </h1>
+"It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
 <br><br>
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
