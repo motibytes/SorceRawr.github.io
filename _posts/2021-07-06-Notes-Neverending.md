@@ -59,6 +59,20 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+words have power to make things so.
+code has power to make things so.
+spells have power to make things so.
+
+when we write code for ourselves and our friends, code that this is written with care, with intention and with intimacy, this literally the stuff of magic
+
+— ⟴ ↭ ⥉ ⬼ ↯ ↬ (@melanieh0ff) January 10, 2020
+
+</code></pre></figure> <!--She's not wrong.. -->
+
+
 <h1> Kahn - You Are Not A Concept </h1>
 <br>
 You are not a concept, you are a perspective, and that changes when how you relate
@@ -78,7 +92,7 @@ if your mind is noisy, let it be. <br>
 if your heart is congested with emotional turmoil. let it be. <br>
 if your ego or the unprocessed pain and fear within you is scrambling <br>
 for something to do, remember, or control, <br>
-let it be <br> 
+let it be <br>
 <br>
 It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
 <br><br>
