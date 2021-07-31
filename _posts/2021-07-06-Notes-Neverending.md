@@ -55,13 +55,11 @@ Brene Brown
 </style>
 
 <div id="note">
-<div id="notetext">
+<div id="notetext"> <br> 
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
----
----
 
 <h1> The Artists Way Week 3: Power </h1>
 <h2> Julia Cameron </h2>
@@ -210,7 +208,7 @@ Because the antidote for shame is self-love and self praise, this is what I did.
 "The words that enlighten the soul are more precious than jewels." - Hazrat Inayat Khan <br>  
 <br>  
 Artistic child abuse creates rebellion creates block. All that can be done with abusive criticism is to heal from it.<br>
-<h2> Rules to Criticism </h2> 
+<h2> Rules to Criticism </h2>
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
 1. Receive the criticism all the way through and get it over with.
