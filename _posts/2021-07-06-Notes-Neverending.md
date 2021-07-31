@@ -60,6 +60,221 @@ Brene Brown
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
 
+---
+---
+
+<h1> The Artists Way Week 3: Power </h1>
+<h2> Julia Cameron </h2>
+Anger is fuel. We feel it and want to do something..<br>
+But we..nice people..deny it, bury it, block it, hide it, lie about it, medicate ti, muffle it, ignore it..do everything but listen to it. <br>
+<b> Anger is a map </b> <br>
+Points the way, not just the finger, in the recovery of a blocked artist, anger is a sign of health.<br>
+Anger is meant to be acted upon..not acted out. <br>
+Anger tells us we can't get away with our old life any longer..<br>
+tells us old life is dying..<br>
+tells us we are being reborn..<br>
+and birthing hurts..<br>
+[and] hurt makes us angry.. <br>
+Anger is the firestorm that signals the death of our old life..<br>
+Anger is the fuel that propels us to the new one..<br>
+Anger is use-full.<br>
+<br>
+Sloth, apathy, and despair are the enemy. Anger is not.<br>
+Anger is loyal friend.<br>
+Always tells us when we have been betrayed..<br>
+betrayed ourselves..<br>
+that it is time to act in our own best interests.<br>
+Anger is not the action itself. It is action's invitation. <br>
+<br>
+
+<h2> Synchronicity </h2>
+
+Answered prayers are scary. They imply responsibility..<br>
+'Watch what you pray for, you might get it' <br>
+<br>
+If no God..we can feel quite justified in declaring certain things impossible, other things unfair.<br>
+If God or lack or God is responsible for the state of the world, we can easily wax cynical and resign ourselves to apathy..What's the use..Why try changing anything..<br>
+<br>
+<b> If there is a responsive creative force that does hear us and act on our behalf, then we may really be able to do some things</b>..<br>
+Possibility is far more frightening than possibility..<br>
+if we do have to deal with a force beyond ourselves that involves itself in our lives, then we may have to move into action on those previously impossible dreams.
+
+"Ask and you shall receive. Knock and it shall be opened to you..." Suggest the possibility of scientific method, ask [experiment] and see what happens [record the result]..<br>
+<br>
+"A Discovery is said to be an accident meeting a prepared mind." - Albert Szent-Gyorgi <br>
+<br>
+..the hand of God, or good, activated by our own hand when we act in behalf of our truest dreams, when we commit to our own soul.<br>
+<br>
+<b> C.G. Jung dubbed Synchronicity, loosely defined it as a fortuitous intermeshing of events.</b> <br>
+Don't be surprised if you try to discount it. It can be a very threatening concept. <br>
+Although Jung's paper on synchronicity was a cornerstone of his thought..[perhaps I should read that paper] <br>
+<br>
+If you ask an artist how he got where he is, he will not describe breaking in [to the field] but instead will talk of a series of lucky breaks.<br>
+"A thousand unseen helping hands" Joseph Campbell calls them. <br>
+<br>
+We like to pretend it is hard to follow our heart's dreams.<br>
+The truth is, it is difficult to avoid walking through the many doors that will open.<br>
+Turn aside your dream and it will come back to you again.<br>
+Get willing to follow it again and a second mysterious door will swing open.<br>
+<br>
+<b>We say we are scared of failure, but what frightens us more is the possibility of success. </b><br>
+<br>
+Take a small step in the direction of a dream and watch the synchronous doors will appear. <br>
+<br>
+Remember the axim "Leap, and the net will appear."<br>
+<br>
+<h2> The Scottish Himalayan Expedition </h2>
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness.
+Concerning all acts of initiative [or creation] there is one elementary truth, the ignorance of which kills countless ideas and splendid plans:
+that the moment one definitely commits oneself, then Providence moves too.
+All sorts of things occur to help one that would otherwise never have occurred. A whole stream of events issues from the decision,
+raising in one's favor all manner of incidents and meetings and material assistance which no man would have believed
+would have come his way.
+
+</code></pre></figure>
+
+"Whatever you think you can do or believe you can do, begin it. Action has magic, grace, and power in it."- Geothe  <br>
+
+<h2> Shame </h2>
+
+[I am most def thinking], "If it were that easy to take an action, I wouldn't be reading this book".  <br>
+[Those who get hit by] fear before action are usually being sabotaged by an older enemy, shame.  <br>
+Shame is a controlling device..Attempt to prevent the person from behaving in a way that embarrasses us.. <br>
+Making art feels like telling a family secret..secret telling involves shame and fear.."What will they think of me once they know this?".. <br>
+frightening, particularly if we have been made to feel ashamed for our curiosities and explorations--social, sexual, spiritual  <br>
+<br>
+"how dare you go into some dark place where we hide those things we don't want you to know?" <br>
+ <br>
+ <b> The act of making art exposes a society to itself. Art brings things to light. It illuminates us. It sheds light on our lingering darkness.
+ It casts a beam into the heart of our darkness and says, "See?" </b>  <br>
+  <br>
+child made to feel shame for bringing shame to family..but did the child bring shame? No..the child brought shameful things to light.  <br>
+ <br>
+ <b> Art opens the closets, airs out the cellars and attics, brings healing.
+ But before a wound can heal it must be seen, and this act of exposing the wound to air and light, the artist's act,
+ is often reacted to with shaming. </b> <br>
+ <br>
+ If a child has ever been made to feel foolish for believing himself or herself talented, the act of actually finishing a piece of art will be fraught with internal shaming.  <br>
+  <br>
+Many artists begin a piece..near completion..work seems mysteriously drained of merit..no longer worth the trouble  <br>
+To therapists.. sudden disinterest "it doesn't matter" is a routine coping device employed to deny pain and ward off vulnerability..  <br>
+ adults who grew up in dysfunctional homes use it well, call it detachment, actually a numbing out "He forgot my birthday, oh well, no big deal" <br>
+A lifetime in which needs for recognition are routinely dishonored teaches that putting anything out for attention is a dangerous act.  <br>
+ <br>
+ <b> Often we are wrongly shamed as creatives..We learn that we are wrong to create. </b><br>
+ Once we learn this lesson, we forget it instantly..buried under "It doesn't matter"..shame lives on waiting to attach to our new efforts.. <br>
+ <b> The very act of attempting to make art creates shame </b> <!-- And that's probably why I've become a bit of a masochist -->
+ <br> <br>
+ Criticism that asks a question like "how could you" can make an artist feel like a shamed child. Well meaning friend who constructively criticizes a
+ beginning writer may very well end that writer.
+
+ Shame is retriggered in us as adults because <b> our internal artist is always our creative child.</b>. Because of this, making a piece of art may cause us to feel shame.<br>
+ <br>
+ Criticism that damages: that which disparages, dismisses, ridicules, condemns, frequently vicious, vague, difficult to refute. <br>
+ Shamed..artist may become blocked or stop sending out work to world <br>
+<br>
+A perfectionist..can dampen the ardor of young artist just learning to let it rip..so we must learn to be very self-protective <br>
+<br>
+[we should be] learning where and and when to seek out right criticism..<br>
+timing is important.. <br>
+First draft seldom shown to anyone but gentle and discerning eye. <br>
+Inexperienced or harsh eye instead of nurturing may shoot it down. <br>
+<br>
+<b> We can learn to comfort our artist child over unfair criticism..<br>
+find friends to safely vent our pain <br>
+learn not to deny and stuff our feelings when we have been artistically savaged.
+</b> <br>
+<br>
+artists must create our own safe environments..protect our artist child from shame..by defusing childhood shamings,
+getting them on the page sharing them with trusted, nonshaming other. <br>
+<br>
+By telling our shame secrets around our art and telling them through our art, we release ourselves and others from darkness. <b> This release is not always welcomed. </b> <br>
+<br>
+<b>
+We must learn that when our art reveals a secret of the soul, those watching may try to shame us for making it.</b> <br>
+they may attack the work when the work itself is fine..this can be confusing..   <br>  
+<br>  
+
+
+"
+When we are told, "Shame on you", and feel it, we must learn to <b> recognize this shame as a re-creation of childhood shames. </b> <br>
+"I know that work is good...I thought that was good work...Could I be kidding myself?...Maybe that critic was right...".. downward spiral begins. <br>  
+<br>  
+At these times, we must not pick up the first doubt, the first negative thinking....[replace thoughts with the action of affirmations].<br>  
+<br>  
+Because the antidote for shame is self-love and self praise, this is what I did..I did not tell myself, "It doesn't matter.", But I did tell my artist self, "You will heal." <br>  
+..I share the headline [of my film] because the irony of it was not lost on me. 'God's Will Hit in Munich', it read. It is 'God's will' for us to be creative.<br>
+<br>  
+"The words that enlighten the soul are more precious than jewels." - Hazrat Inayat Khan <br>  
+<br>  
+Artistic child abuse creates rebellion creates block. All that can be done with abusive criticism is to heal from it.<br>
+<h2> Rules to Criticism </h2> 
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+1. Receive the criticism all the way through and get it over with.
+2. Jot down notes to yourself on what concepts or phrases bother you.
+3. Jot down notes on what concepts or phrases seem useful.
+4. Do something very nurturing for yourself on what concepts or phrases bother you.
+5. Remember that even if you have made a truly rotten piece of art, it may be a necessary stepping-stone to your next work. Art matures spasmodically and requires ugly-duckling growth stages.
+6. Look at the criticism again. Does it remind you of any criticism from your past--particularly shaming childhood criticism? Acknowledge to yourself that the current criticism is triggering grief over a long-standing wound.
+7. Write a letter to the critic--not to be mailed, most probably. Defend your work and acknowledge what was helpful, if anything, in the criticism proffered.
+8. Get back on the horse. Make an immediate commitment to do something creative.
+9. Do it. Creativity is the only cure for criticism.
+
+</code></pre></figure>
+
+
+"Artists who seek perfection in everything are those who cannot attain it in anything." - Eugene Delacoix <br>
+<br>
+Many blocked people are actually very powerful and creative personalities who have been made to feel guilty about their own strengths and gifts. Without being acknowledged, they are often used as batteries by their families and friends,
+who feel free to both use their creative energies and disparage them.. when strive to break free of their dysfunctional systems..urged to be sensible when such advice is not appropriate for them..made to feel guilty for their talents,
+<b> hide under their own light </b> under a bushel for <b> fear of hurting others. Instead, they only hurt themselves. </b> <br>
+<br>
+<h2> Restoring Abandoned Persons Exercise </h2>
+you may feel strong emotion as you retrieve memories and misplaced fragments of yourself.
+
+Allow yourself to free-associate for a sentence or so with each phrase.
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+1. My favorite childhood toy was...
+2. My favorite childhood game was...
+3. The best movie I ever saw as a kid was...
+4. I don't do it much but I enjoy...
+5. If I could lighten up a little, I'd let myself...
+6. If it weren't too late, I'd...
+7. My favorite musical instrument is...
+8. The amount of money I spend on treating myself for entertainment each month is...
+9. If I weren't so stingy with my artist, I'd buy him her...
+10. Taking time out for myself is...
+11. I am afraid that if I start dreaming
+12. I secretly enjoy reading...
+13. If I had a perfect childhood I'd have grown up to be...
+14. If it didn't sound so crazy, I'd write or make a...
+15. My parents think artists are...
+16. My God thinks artists are...
+17. What makes me feel weird about this recovery is...
+18. Learning to trust myself is probably...
+19. My most cheer-me-up music is...
+20. My favorite way to dress is...
+</code></pre></figure>
+
+<h2> Growth </h2>
+Growth is erratic forward movement: two steps forward, one step back. <br>
+be very gentle with self..healing process..capable on Tues..slide backwards Weds..normal..growth in spirits..
+You will lie dormant sometimes..Do not be discouraged..<b> Think of it as resting </b>. <br>
+ <br>
+Frequently<b>week of insights followed by week of sluggishness</b>..morning pages will seem pointless..they are not... <br>
+ <br>
+ "God helps those who help themselves" now comes to signify the amazing number of small free gifts the creator showers on those who are helping themselves to a little bounty.<br>
+ If you do one nice thing a day for yourself, God will do two more. <br>
+ Experiment with solitude...[often]..take a beat..ask yourself how you are feeling..listen to your answer..Respond kindly..if doing something hard, promise yourself a break and treat afterward.<br>
+ We believe to be artists we must be tough, cynical, intellectually chilly. Leave that to the critics. As a creative being, you will be more productive when coaxed than when bullied. <br>
+ <br>
+ END of Week 3 Notes <br>
+ <br>
+
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
 words have power to make things so.
