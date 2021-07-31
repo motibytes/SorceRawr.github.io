@@ -1,11 +1,14 @@
 ---
 layout: postshort
+permalink: inspiring
 ---
 
 <a href="{{ page.url }}"> ![image](/img/unused-energy-24.gif) </a>
 
-<!-- wait now my games need to be based on creativity -->
+<!-- Rename this post to Inspirational Games, Media, and Songg
 
+wait now my games need to be based on creativity -->
+<!--
 Games I'm currently interested in
 
 ![broken image: games 1 ](/img/games1.PNG)
@@ -14,11 +17,19 @@ Games I'm currently interested in
 
 ![broken image: games 3 ](/img/games3.png)
 
+Redo this to show pretty wallpapers of:
+Hollow Knight
+Gris
+Amelie
+Whisper of the Heart
+
 <!-- Habitica -->
 
 Goal Tracking Game - [Habitica](https://habitica.com/static/home)
 
-Music Inspiring Creativity, Kishi Bashi's Manchester
+# Music Inspiring Creativity
+
+Kishi Bashi's Manchester
 
 <iframe width="242" height="242" src="https://www.youtube-nocookie.com/embed/3_hU_uLmXv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
