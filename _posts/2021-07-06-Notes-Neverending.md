@@ -106,10 +106,11 @@ for something to do, remember, or control, <br>
 let it be. <br>
 <br>
 <h1>net.art  </h1>
-"It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers."
+<b> "It's nice to think of artists as hackers who endeavour to get inside cultural systems and make them do things they were never intended to do: artists as culture hackers." </b>
 <br><br>
 <figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
 
+<h2> Dickinson </h2>
 'Tis so much joy! 'Tis so much joy!
 If I should fail, what poverty!
 And yet, as poor as I,
