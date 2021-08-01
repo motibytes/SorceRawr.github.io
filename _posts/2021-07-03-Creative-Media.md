@@ -17,15 +17,29 @@ Games I'm currently interested in
 
 ![broken image: games 3 ](/img/games3.png)
 
-Redo this to show pretty wallpapers of:
+Redo this to show pretty nice wallpapers of:
 Hollow Knight
 Gris
 Amelie
 Whisper of the Heart
 
+Beautiful relaxing piano
+https://www.youtube.com/watch?v=QZr8rhp5y7s
 <!-- Habitica -->
+# Creativity Inspiring Games
+
+Hollow Knight
+GRIS
+
+<br>
+
+# Gamified Productivity
+
+
 
 Goal Tracking Game - [Habitica](https://habitica.com/static/home)
+
+<br>
 
 # Music Inspiring Creativity
 
@@ -37,8 +51,8 @@ Kishi Bashi's Manchester
 
 <iframe width="242" height="242" src="https://www.youtube-nocookie.com/embed/-st9nT9Zsb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Creativity Music
+<!--
+# Creativity Music
 
 https://www.youtube.com/watch?v=stNg41SVRzM&list=PLwgC-cD-X2_UkIjiK8Km6Q2VpF6Te6XOX&index=1&t=327s
-
 <!-- Art Wallpapers-->
