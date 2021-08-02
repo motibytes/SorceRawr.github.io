@@ -29,7 +29,10 @@ https://www.youtube.com/watch?v=QZr8rhp5y7s
 # Creativity Inspiring Games
 
 Hollow Knight
+
 GRIS
+
+Journey
 
 <br>
 
