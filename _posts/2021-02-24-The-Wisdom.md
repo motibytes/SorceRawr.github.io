@@ -4,8 +4,7 @@ title: The Wisdom
 permalink: thewisdom
 ---
 
-
-<a href="{{ page.url }}"> ![image](/img/unused-void-testagainagain.webp) </a> <!-- {:class="img-responsive"} -->
+ <a href="{{ page.url }}"> ![image](/img/unused-void-testagainagain.webp) </a><!-- {:class="img-responsive"} -->
 
 <iframe src="https://open.spotify.com/embed/track/1qmo0CeSNbWdnZRDW55PSe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -84,27 +83,28 @@ The Full Text: [Sirach 24](https://www.biblegateway.com/passage/?search=Sirach%2
 These passages to me are the core of wisdom.
 May you be blessed and love and be loved on your journey, and may you find the treasure you seek.
 
+<!-- Change Image! -->
 <script type="application/ld+json">
 {
   "@context" : "https://schema.org",
   "@type" : "Article",
-  "name" : "The Wisdom",
-  "headline": "The Wisdom",
+  "image" : "https://sorcerawr.com/img/unused-void-testagainagain.webp",  
+  "name" : "{{ page.title }}",
+  "headline" : "{{ page.title }}",
+  "keywords":"creativity cultivation creation alchemy resources content wisdom",
   "mainEntityOfPage": {
        "@type": "WebPage",
-       "@id": "https://sorcerawr.com/thewisdom"
+       "@id": "{{ absolute_url }}"
      },    
   "author" : {
     "@type" : "Person",
     "name" : "James Bytes"
   },
-
-  "datePublished" : "2021-02-24",
-  "dateModified" : "",
-  "image" : "https://sorcerawr.com/img/unused-void-testagainagain.webp",
+  "datePublished" : "{{ page.date | date_to_xmlschema }}",
+  "dateModified" : "{{ site.time | date_to_xmlschema }}",
   "publisher" : {
     "@type" : "Organization",
-    "name" : "SorceRawr.com"
+    "name" : "SorceRawr.com",
     "logo": {
        "@type": "ImageObject",
        "url": "http://www.sorcerawr.com/img/logo.png"
@@ -112,3 +112,6 @@ May you be blessed and love and be loved on your journey, and may you find the t
   }
 }
 </script>
+<!--
+Output example: 2019-06-22T21:00:00+00:00
+-->
