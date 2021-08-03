@@ -1,0 +1,68 @@
+Hey all. I create projects and write things at https://sorcerawr.com/ and https://www.jamesbyt.es/.
+
+James is focused on the changing states of reality,
+the study and pursuit of wisdom,
+uncovering and teaching the secrets of life,
+flowing like water,
+and shaking the dirt up into pure creative source.
+
+
+"additionalName": "The Blessed",
+"birthDate": "1994-04-24",
+"knowsAbout": "Secrets, Creativity, Wisdom"
+"description": "James is focused on the changing states of reality,
+the study and pursuit of wisdom,
+uncovering and teaching the secrets of life,
+flowing like water,
+and shaking the dirt up into pure creative source."
+"image": {
+   "@type": "ImageObject",
+   "url": "http://www.sorcerawr.com/img/bytes.jpg"
+ }
+
+
+At this current stage of my life, I'm apparently some kind of god of chaos and order,
+shaking the dirt up into pure creative source, while calling for the rain of love from above.
+
+Right now I feel that my art project is myself, that I am being formed while forming, a co-creator in my own life, a cowriter to my own story.
+I'm a bit of an actor in my own play as well, always changing what I express and bring out and how I project.
+
+This makes me feel a bit like a master magician of sorts, and I admire the concept of flowing like water,
+creating the illusion or reality that I dance effortlessly through my actions.
+
+I aspire to mastery of life and take some small pride in being deeply rooted and grounded.
+What interests me is the changing of states of reality, the study and pursuit of wisdom,
+uncovering and teaching the secrets of life,
+and becoming me.
+
+The two things I care about or desire most are accessing and living from my own creative source,
+and being connected to those who I can connect, love, and share with openly.
+
+Unfortunately, what has kept me from those two things has been my own fear.
+While I am well equipped to process great amounts of fear and act despite of it,
+I still struggle with fear.
+Some years ago I had an experience of the greater dimensions and came back with far more fear than a person should have.
+
+My own fear and resistance and a desire to create what others will accept and like often closes my heart,
+and a fear of showing up (and potentially, rejection) often tarnishes and taints my interactions and writings.
+
+I have several times connected to a place where I am free to just be and love myself as I am,
+but the worries of others have come in and the next day has come and that place has been lost many times.
+
+Perhaps last year I came across a woman online writing poetry,
+and saw her absolute love of this art. I shared something with her and she loved it as well.
+Witnessing this was a beauty beyond comparison.
+Alas, I never even wrote back a thank you after my fear of showing up and destroying that arose again.
+
+Now I identify that perhaps that is what I want most and am seeking, to allow myself to fall in love with creation itself.
+The desire that follows that nearly destroys me, and that is the desire to be creating on the highest level,
+with the most powerful creators in the world.
+That being said, I don't even know what I would want to create if I could create anything.
+
+I have to note that I'm glad I wrote this.
+
+Thank you all for being here.
+
+my fb, https://www.facebook.com/james.bytes.73
+
+<!-- now how do I feed some of this to knowledge graph -->

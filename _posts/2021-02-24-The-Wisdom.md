@@ -2,9 +2,10 @@
 layout: post
 title: The Wisdom
 permalink: thewisdom
+picformat: .webp
 ---
 
- <a href="{{ page.url }}"> ![image](/img/unused-void-testagainagain.webp) </a><!-- {:class="img-responsive"} -->
+ <a href="{{ page.url }}"> ![image](/img/thewisdom.webp) </a><!-- {:class="img-responsive"} -->
 
 <iframe src="https://open.spotify.com/embed/track/1qmo0CeSNbWdnZRDW55PSe" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -88,17 +89,19 @@ May you be blessed and love and be loved on your journey, and may you find the t
 {
   "@context" : "https://schema.org",
   "@type" : "Article",
-  "image" : "https://sorcerawr.com/img/unused-void-testagainagain.webp",  
+  "image" : "https://sorcerawr.com/img/{{ page.permalink }}{{ page.picformat }}",  
   "name" : "{{ page.title }}",
   "headline" : "{{ page.title }}",
-  "keywords":"creativity cultivation creation alchemy resources content wisdom",
+  "keywords" : "creativity cultivation creation alchemy resources content wisdom",
   "mainEntityOfPage": {
        "@type": "WebPage",
-       "@id": "{{ absolute_url }}"
+       "@id": "https://sorcerawr.com/{{page.permalink}}"
      },    
   "author" : {
     "@type" : "Person",
-    "name" : "James Bytes"
+    "name" : "James T. Bytes",
+    "additionalName": "James The Blessed",
+    "birthDate": "1994-04-24"
   },
   "datePublished" : "{{ page.date | date_to_xmlschema }}",
   "dateModified" : "{{ site.time | date_to_xmlschema }}",
@@ -112,6 +115,8 @@ May you be blessed and love and be loved on your journey, and may you find the t
   }
 }
 </script>
+
+
 <!--
 Output example: 2019-06-22T21:00:00+00:00
 -->
