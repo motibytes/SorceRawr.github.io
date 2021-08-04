@@ -1,3 +1,9 @@
+---
+permalink: about
+---
+
+This page is coming soon. 
+
 <script type="application/ld+json">
    {
      "@context": "https://schema.org",
