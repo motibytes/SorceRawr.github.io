@@ -1,12 +1,15 @@
 ---
 layout: post
 title: about
+permalink: rawr
 ---
 
 SorceRawr.com is the future 'Source of Creativity',
 rapidly rising as the definitive creativity cultivation site on the net.
 
-Inspired by anything on the site? Want to show some appreciation?
+Inspired by anything on the site? Want to show some appreciation? Just interested in
+investing in its potential?
+
 A gift to me can be a gift to you,   
 [Official SorceRawr Merch Store] !
 

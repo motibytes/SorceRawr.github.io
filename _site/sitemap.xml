@@ -75,9 +75,6 @@
 <loc>https://sorcerawr.com/about/</loc>
 </url>
 <url>
-<loc>https://sorcerawr.com/about.html</loc>
-</url>
-<url>
 <loc>https://sorcerawr.com/about</loc>
 </url>
 <url>
@@ -91,6 +88,9 @@
 </url>
 <url>
 <loc>https://sorcerawr.com/notebook</loc>
+</url>
+<url>
+<loc>https://sorcerawr.com/rawr</loc>
 </url>
 <url>
 <loc>https://sorcerawr.com/bunsenlabs</loc>
