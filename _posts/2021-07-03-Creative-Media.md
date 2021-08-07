@@ -1,9 +1,10 @@
 ---
 layout: postshort
 permalink: inspiring
+picformat: .gif
 ---
 
-<a href="{{ page.url }}"> ![image](/img/unused-energy-24.gif) </a>
+<a href="{{ page.url }}"> ![image](/img/inspiring.gif) </a>
 
 <!-- Rename this post to Inspirational Games, Media, and Songg
 

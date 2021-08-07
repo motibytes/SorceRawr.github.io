@@ -1,9 +1,10 @@
 ---
 layout: post
-permalink: Receptivity
+permalink: receptivity
+picformat: .gif
 ---
 
-<a href="{{ page.url }}"> ![image](/img/duality.gif) </a>
+<a href="{{ page.url }}"> ![image](/img/receptivity.gif) </a>
 
 
 <!--

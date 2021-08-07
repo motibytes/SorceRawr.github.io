@@ -1,12 +1,12 @@
 ---
 layout: postshort
 title: Note Neverending
-subtitle:
 permalink: noteneverending
+picformat: .gif
 ---
 
 
-<a href="{{ page.url }}"> ![image](/img/unused-energy-02.gif) </a>
+<a href="{{ page.url }}"> ![image](/img/noteneverending.gif) </a>
 
 Pouring into a data stream of refined creativity. <!-- as I log the path I'm taking to get where I'm going. , as the road becomes narrow, as the path carves and arranges itself into a straight form. -->
 
@@ -55,7 +55,7 @@ Brene Brown
 </style>
 
 <div id="note">
-<div id="notetext"> <br> 
+<div id="notetext"> <br>
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->

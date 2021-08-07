@@ -92,7 +92,7 @@ May you be blessed and love and be loved on your journey, and may you find the t
   "image" : "https://sorcerawr.com/img/{{ page.permalink }}{{ page.picformat }}",  
   "name" : "{{ page.title }}",
   "headline" : "{{ page.title }}",
-  "keywords" : "creativity cultivation creation alchemy resources content wisdom",
+  "keywords" : "wisdom",
   "mainEntityOfPage": {
        "@type": "WebPage",
        "@id": "https://sorcerawr.com/{{page.permalink}}"

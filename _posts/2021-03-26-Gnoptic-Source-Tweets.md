@@ -1,11 +1,10 @@
 ---
 layout: post-empty
-
 permalink: twitter
-
+picformat: .gif
 ---
 
-<a href="{{ page.url }}"> ![image](/img/unused-void-3.gif) </a> <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/twitter.gif) </a> <!-- {:class="img-responsive"} -->
 
 
 <p style="font-size: 10px;">(This page will not display correctly if using 'Disconnect') </p>

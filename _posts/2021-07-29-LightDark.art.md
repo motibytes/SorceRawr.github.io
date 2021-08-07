@@ -1,6 +1,7 @@
 ---
 layout: postshort
 permalink: lightdark
+picformat: .PNG
 ---
 
 <a href="{{ page.url }}"> ![image](/img/lightdark.PNG) </a>

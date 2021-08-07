@@ -1,10 +1,12 @@
 ---
 layout: postshort
-permalink: entropy
+permalink: divinescripture
+picformat: .gif
+
 ---
 
 
-<a href="{{ page.url }}"> ![image](/img/universe.gif) </a> <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/divinescripture.gif) </a> <!-- {:class="img-responsive"} -->
 
 DivineScripture.art uses your word as entropy in a rog to generate scripture.
 

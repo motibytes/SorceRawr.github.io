@@ -1,9 +1,10 @@
 ---
 layout: postshort
 permalink: helptheworld
+picformat: .webp
 ---
 
-<a href="{{ page.url }}"> ![image](/img/world2.webp) </a> <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/helptheworld.webp) </a> <!-- {:class="img-responsive"} -->
 
 
 So this thing I came across right, turns out these donation companies took advantage of the

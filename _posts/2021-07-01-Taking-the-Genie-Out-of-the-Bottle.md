@@ -1,9 +1,10 @@
 ---
 layout: post
 permalink: genie
+picformat: .gif
 ---
 
-<a href="{{ page.url }}"> ![image](/img/unused-energy-13.gif) </a>
+<a href="{{ page.url }}"> ![image](/img/genie.gif) </a>
 
 I'd like to save you some time. You have a genie in a bottle. You always have. You probably believe that
 wishes don't come true, because when you were a child, you watched people pray, and you watched their prayers go unanswered.

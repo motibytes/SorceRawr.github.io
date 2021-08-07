@@ -4,8 +4,8 @@
 
 next, we also do all of this on jamesbyt.es.
 Two different sites verifying the existence of the other.
-
-"author" : {
+<!--
+"author" : { beeo beep beep do not use this
   "@type" : "Person",
   "name" : "James T. Bytes",
   "additionalName": "James The Blessed",
@@ -22,12 +22,12 @@ Two different sites verifying the existence of the other.
      "@type": "ImageObject",
      "url": "http://www.sorcerawr.com/img/bytes.jpg"
    }
-}
+} -->
 
 make the about page for google indexing
 
 
-
+"
 Final thoughts
 When I started writing this article, Ahrefs didn’t have a Knowledge Panel. But we do now, thanks to the tips I explained above.
 
@@ -44,3 +44,4 @@ and they will only become more and more important. Google is already on its way 
 so understanding these topics is crucial in today’s SEO.
 
 If you have any questions or remarks about this fascinating topic, feel free to ping me on Twitter.
+""

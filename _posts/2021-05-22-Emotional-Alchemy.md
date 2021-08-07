@@ -1,9 +1,11 @@
 ---
 layout: post
 permalink: emotionalalchemy
+picformat: .webp
+
 ---
 
-<a href="{{ page.url }}"> ![image](/img/formless.webp)
+<a href="{{ page.url }}"> ![image](/img/emotionalalchemy.webp)
 
 Emotional alchemy is an active experience that involves the changing or perhaps, the transmutation of one’s own feelings. This can lead to an entirely different life experience, in which the phrase, ‘never a dull moment’ becomes an increasingly exciting reality. For the experienced alchemist, life shifts to a chain of reliefs and joys, in some cases where there is hardly time to prepare for the next bombshell of bliss or satisfaction.
 

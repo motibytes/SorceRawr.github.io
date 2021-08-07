@@ -1,10 +1,11 @@
 ---
 layout: postshort
 permalink: rawrtheupdater
+picformat: .gif
 ---
 
 
-<a href="{{ page.url }}"> ![image](/img/flowenergy.gif) </a> <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/rawrtheupdater.gif) </a> <!-- {:class="img-responsive"} -->
 
 The definitive way to watch your crypto assets.
 

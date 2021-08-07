@@ -1,9 +1,10 @@
 ---
 layout: postshort
 permalink: positive
+picformat: .webp
 ---
 
-<a href="{{ page.url }}"> ![image](/img/butterfly.webp) </a> <!-- {:class="img-responsive"} -->
+<a href="{{ page.url }}"> ![image](/img/positive.webp) </a> <!-- {:class="img-responsive"} -->
 
 
 
