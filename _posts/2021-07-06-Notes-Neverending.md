@@ -59,7 +59,8 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
-
+<h1> Artists Way </h1>
+Creativity lives in paradox: serious art is born from serious play.
 
 <h1> The Artists Way Week 3: Power </h1>
 <h2> Julia Cameron </h2>
