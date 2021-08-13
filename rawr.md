@@ -43,7 +43,9 @@ bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a
 
 <br>
 
-Most of the gifs on this site are taken from [Erica Anderson](https://ericaofanderson.tumblr.com/). 
+Most of the gifs on this site are taken from [Erica Anderson](https://ericaofanderson.tumblr.com/).
+
+Official OpenSea ETH Address is 0xa37b0fd171badd4f97842d0130e96596ebc8212d
 <!--
 Follow on Instagram: coming soon
 
