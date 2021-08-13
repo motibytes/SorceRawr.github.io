@@ -43,6 +43,7 @@ bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a
 
 <br>
 
+Most of the gifs on this site are taken from [Erica Anderson](https://ericaofanderson.tumblr.com/). 
 <!--
 Follow on Instagram: coming soon
 
