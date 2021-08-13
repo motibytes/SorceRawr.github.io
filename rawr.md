@@ -41,11 +41,15 @@ bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a
 
 ## Or, a gift to me can be a gift to you, on SorceRawr's Official [Merch Store](https://app.gumroad.com/bytestheblessed).
 
+OpenSea <br>
+https://opensea.io/bytes_the_blessed <br>
+0xa37b0fd171badd4f97842d0130e96596ebc8212d <br>
+
 <br>
 
 Most of the gifs on this site are taken from [Erica Anderson](https://ericaofanderson.tumblr.com/).
 
-Official OpenSea ETH Address is 0xa37b0fd171badd4f97842d0130e96596ebc8212d
+
 <!--
 Follow on Instagram: coming soon
 
