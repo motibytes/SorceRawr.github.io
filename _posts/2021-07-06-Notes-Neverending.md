@@ -59,6 +59,118 @@ Brene Brown
 <!-- # A collection of my words from this year is at moti > chaos > words 2021 -->
 <!-- make this beautiful like a journal E4D4C8 D2B48C-->
 <!-- This document started with a thought, what if the notes on the road of the search for unlimited creativity were available in one text.<br> -->
+
+
+<h1> The Artists Way Week 4: Integrity </h1>
+<h2> Julia Cameron </h2>
+
+Through magic pages we sort our real feelings from official feelings, those on the record for public display.  <br>
+<br>
+Many tend to neglect or abandon the pages whenever an unpleasant piece of clarity is about to emerge. <br>
+Extreme emotions of any kind--the very thing that morning pages are superb for processing--are the usual triggers for avoiding the pages themselves.<br>  
+<br>
+Chekhov advised, <b>"If you want to work on your art, work on our life." That's another way of saying that in order to have self-expression, we must first have a
+self to express. <br>
+<br>
+Morning pages, "I myself, feel this way, no one else need agree with me, but this is what I feel"<br>
+Clarify perceptions..lose misconceptions, eliminate ambiguity..lose illusion, arrive at clarity..clarity creates change<br>
+<br>
+Faced with impending change, change we have set in motion through our own hand, we want to mutiny, curl up in a ball, bawl our eyes out. <br>
+<br>
+Thanks to morning pages, We learn what we [really] want and ultimately become willing to make the changes needed to get it. But not without a tantrum.<br>
+And not without a kriya, a Sanskrit word meaning a spiritual emergency or surrender. <br>
+<br>
+<b> The [morning] pages round up the usual suspects. They mention the small hurts we prefer to ignore, the large successes we've failed to acknowledge. In short,
+the morning pages point the way to reality: this is how you're feeling; what do you make of that? </b><br>
+<br>
+<b> And what me make of that is often art. </b> <br>
+<br>
+People frequently believe the creative life is grounded in fantasy. The more difficult truth is that creativity is grounded in reality, in the particular
+the focused, the well observed or specifically imagined. <br>
+<br>
+Until we experience the freedom of solitude, we cannot connect authentically. We may be enmeshed, but we are not encountered. <br>
+<br>
+Art lies in the moment of encounter: we meet our truth and we meet ourselves, we meet ourselves and we meet our self-expression. We become original because
+we become something specific: an origin from which work flows. <br>
+<br>
+As we regain creative identity, we lose false self.. the loss of this false self can feel traumatic: "I don't know who I am anymore. I don't recognize me." <br>
+<br>
+
+One of the clearest signals that something healthy is afoot is the impulse to weed out, sort through, and discard old clothes, papers, and belongings..
+by tossing out the old..we make way for the new..<br>
+When the search-and-discard impulse seizes you, two crosscurrents are at work> the old you is leaving and grieving, while the new you celebrates and grows strong..
+rupture..there is both tension and relief. Long-seated depression breaks up like an ice floe. Long-frozen feelings thaw, melt, cascade, flood,
+and often overrun the container (you). You may find yourself feeliong volatile and changeable. You are. <br>
+Be prepared for bursts of tears and laughter. A certain giddiness may accompany sudden stabs of loss.<br>
+<br>
+temporarily without a vehicle.. <br>
+<br>
+once we engage in the process of magic pages and artist dates, we begin to move at such a velocity that we do not even realize the pace. <br>
+<br>
+When we have engaged the creator within to heal us, many changes and shifts in our attitudes begin to occur..may seem crazy and destructive..eccentric.. <br>
+<b>
+there will be a change in energy patterns<br>
+stronger dreams  <br>
+fantasy of a benign and unexpected sort <br>
+areas of life that previously seemed to fit will stop fitting <br>
+wardrobe may look funny <br>
+musical bents may alter <br>
+bursts of spontaneous singing, running, dancing, running <br>
+unsettling candor, "I don't like that", "I think that's great" <br>
+may discover very particular likes and dislikes you hadn't acknowledged <br>  
+</b><br>
+Conditioned as we are to accept other people's definitions of us,
+<b> Emerging individuality can seem to us like self-will run riot. It is not. </b> <br>
+<br>
+The snowflake pattern of your soul is emerging..we blur uniqueness with sugar,alcoghol, drugs, overwork,
+underplay, bad relations, toxic sex, underexercise, over-TV, undersleep..<br>
+<br>
+If you look over the time since starting morning writing, you will see that many changes have encountered your
+life as a result of your willingness to clear room in it for your creator's action..<br>
+<b> increased, sometimes disconcerting, sense of personal energy, some bursts of anger, some flash points of clarity.
+People and objects may have taken on a different meaning to you..sense of flow of life..brought into new vistas as you
+surrender to moving with the flow of god.. <br>
+sense of both bafflement and faith..You are no longer stuck, but you cannot tell where you are going.. may feel that
+this can't keep up..may long for the time when there was no sense of possibility, when you felt more victimized,
+when you didn't realize how many small things you could do to improve your own life.  
+</b> <br>
+<br>
+It is normal to yearn for some rest when you are moving so rapidly. <b> What you will learn to do is to rest in motion </b>..
+like lying down in a boat, the morning pages are your boat. <br>
+<br>
+Difficult for us to realize that this process..of writing..<b> can open an inner door through which our creator helps and guides us. <br>
+Our willingness swings this inner door open. The morning pages symbolize our willingness to speak to and hear God. They lead us into
+many other changes that also come from God and lead us to God. This is the hand of God moving through your hand as you write. It is very powerful. </b>
+<br>
+
+
+<h2> Buried Dreams Exercise: </h2>
+
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+
+Spontaneously quickly write these without thinking.
+
+List 5 hobbies that sound fun
+List 5 classes that sound fun
+List 5 things you would personally never do that sound fun
+List 5 skills that would be fun to have.
+List 5 things you used to enjoy doing.
+List 5 silly things you would like to try once.
+</code></pre></figure>
+
+<h2> Reading Deprivation Exercise: </h2>
+<figure class="highlight"><pre><code class="language-plaintext" data-lang="plaintext">
+"No reading for one week. Without distractions, we are once again thrust into the sensory world.
+Casts us into our inner silence. We often cannot hear our own inner voice, the voice of our artist's
+inspiration, above the static. Other pollutants poison the well. If we monitor the inflow and keep it to a minimum,
+we are rewarded with a new outflow. Our own art, our own thoughts and feelings, will begin to nudge aside the
+sludge of blockage until our well is running freely.
+For most of us the thought of reading deprivation brings up enormous rage, for most blocked creatives, reading is
+an addiction.
+</code></pre></figure>
+
+End Artists Way Week 4
+
 <h1> Artists Way </h1>
 Creativity lives in paradox: serious art is born from serious play.
 
