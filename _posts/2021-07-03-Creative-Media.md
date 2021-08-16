@@ -27,6 +27,11 @@ Whisper of the Heart
 Beautiful relaxing piano
 https://www.youtube.com/watch?v=QZr8rhp5y7s
 <!-- Habitica -->
+
+# Ikigai 
+
+![Ikigai](ikigai.png)
+
 # Creativity Inspiring Games
 
 Hollow Knight
