@@ -1,3 +1,7 @@
+
+I am James, a perspective changing artist and wordsmith, the student of wisdom, a teacher of life secrets,
+and a flowing, eternally changing being of creativity. Thank you for stopping by.
+
 Hey all. I create projects and write things at https://sorcerawr.com/ and https://www.jamesbyt.es/.
 
 James is focused on the changing states of reality,
@@ -10,11 +14,8 @@ and shaking the dirt up into pure creative source.
 "additionalName": "The Blessed",
 "birthDate": "1994-04-24",
 "knowsAbout": "Secrets, Creativity, Wisdom"
-"description": "James is focused on the changing states of reality,
-the study and pursuit of wisdom,
-uncovering and teaching the secrets of life,
-flowing like water,
-and shaking the dirt up into pure creative source."
+"description": " James is a perspective changing artist and wordsmith, the student of wisdom, a teacher of life secrets,
+and a flowing, eternally changing being of creativity."
 "image": {
    "@type": "ImageObject",
    "url": "http://www.sorcerawr.com/img/bytes.jpg"
