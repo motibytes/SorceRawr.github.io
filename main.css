@@ -559,3 +559,8 @@ a { /* fixes main site color on twitter page but affects all */
 	font-size: 2em;
 }
 */
+
+#nft-frame {
+  height: 350px;
+  width: 350px;
+}
