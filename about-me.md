@@ -1,10 +1,11 @@
 ---
 layout: postshort
+permalink: about-me
 ---
 
 I am James T. Bytes, a perspective changing artist and interactive wordsmith.
 I am the owner of SorceRawr.com and BytesTheBlessed.com.
-As an creative, I present perspectives that I love.
+As a creative, I present perspectives that I love.
 I am a student of wisdom and I am a flowing, eternally changing being of creativity.
 
 * Sites  <br>
@@ -20,3 +21,5 @@ I am a student of wisdom and I am a flowing, eternally changing being of creativ
   * [Facebook](https://www.facebook.com/jamestheblessed)
   * [OpenSea](https://opensea.io/Bytes_The_Blessed)
   * [Goodreads](https://www.goodreads.com/user/show/135257757-james-the-blessed)
+
+{% include sorcerawrdata.html %}
