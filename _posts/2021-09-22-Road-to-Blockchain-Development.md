@@ -68,6 +68,8 @@ I think it was at this point that I realized, wow. Pretty much all of this live 
 
 ## [Node.js course](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=57)
 
+-
+
 # Part 5 🌞💡
 
 This was the part where I felt like I was beginning to be able to see what might lay over a mountain of information and began to see a horizon in the distance.
@@ -96,6 +98,8 @@ I wasn't actually planning to write this but I suppose now I'll just update it a
 # Road to my Mastery of Solidity YouTube Playlist ‍🚀
 
 ## [YouTube Playlist](https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k)
+
+-
 
 # Additional Advice 🤖💛
 
