@@ -118,6 +118,6 @@ Feed your brain with some information each day and allow it to cook. It's like c
 So remember, always cook your brain! 👨‍🍳 🍌
 
 Did this help you in your journey?
-Here's the original twitter post if you want to share it: https://twitter.com/BytesTheBlessed/status/1440841630097948672
+Here's the original twitter post if you want to share it: [twitter.com/BytesTheBlessed/status/1440841630097948672](https://twitter.com/BytesTheBlessed/status/1440841630097948672)
 
-Do you have additional resources you believe are mission critical to starting out in eth dev? Please share them with me and I will add them. 
+Do you have additional resources you believe are mission critical to starting out in eth dev? Please share them with me and I will add them.
