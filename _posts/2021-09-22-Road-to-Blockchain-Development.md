@@ -7,15 +7,15 @@ picformat: .gif
 
 <a href="{{ page.url }}"> ![image](/img/development.gif) </a>
 
-This tutorial assumes that you have a standard user's understanding of Ethereum and have used Metamask.
+This article assumes that you have a standard user's understanding of Ethereum and have used Metamask.
 
 # Part 1
 
 Before I was committed to learning how to develop on these platforms, I started out with Crypto Zombies and Eth.Build.
 
-[Crypto Zombies] https://cryptozombies.io/en/course
+## [Crypto Zombies](https://cryptozombies.io/en/course)
 
-[Eth.build] https://eth.build/
+## [Eth.build](https://eth.build/)
 
 While I didn't understand too much of what was going on, what I was doing was familiarizing myself with the Solidity language and seeing how it interacted with the Ethereum blockchain. Eth.build gave me a look at how the magic of private and public keys can be used to do all kinds of amazing things. However I was far from being able to actually do anything.  
 
@@ -27,9 +27,9 @@ At this stage I learned primarily by using parts of these two tutorials [There w
 
 What I learned are that there are many working parts and you might as well be familiar with all of them.
 
-[Deploy an NFT smart contract on Polygon Tutorial](https://medium.com/pinata/how-to-create-layer-2-nfts-with-polygon-and-ipfs-aef998ff8ef2)
+## [Deploy an NFT smart contract on Polygon Tutorial](https://medium.com/pinata/how-to-create-layer-2-nfts-with-polygon-and-ipfs-aef998ff8ef2)
 
-[Deploy an NFT smart contract on Ethereum Tutorial](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/)
+## [Deploy an NFT smart contract on Ethereum Tutorial](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/)
 
 The issues I ran into while doing these forced me to do more research and understand more of what was going on.
 
@@ -47,13 +47,13 @@ I wanted more, too. How could I get my code into a website? How could I actually
 
 I looked for more resources. I found Solidity by Example and dived in, working through the text and learning from the teacher in the associated video series.
 
-[Solidity by Example](https://solidity-by-example.org/)
+## [Solidity by Example](https://solidity-by-example.org/)
 
 This is what started to give me a true grasp on the language.
 
 Then I found Austin Griffith's ETH Scaffold. An amazing project. This project would set you up with an entire development studio, including a live front end, and the ability to deploy these live. It made everything easier and was a one stop solution from start to finish.
 
-[Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
+## [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 
 I was able to get this off the ground and finally see a project interact with the front end website.
 
@@ -62,11 +62,11 @@ I was able to get this off the ground and finally see a project interact with th
 There was just one problem I found. I didn't know React. I didn't understand these systems, and I wanted more control over the production process.
 I looked for more development tutorials, and one I found told me again that I should learn React. It recommended this video series, and I couldn't have been more interested.
 
-[React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=70)
+## [React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=70)
 
 I think it was at this point that I realized, wow. Pretty much all of this live development usually revolves around node.js technology. I spent one long night on a quick refresh of that as well.
 
-[Node.js course](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=57)
+## [Node.js course](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=57)
 
 # Part 5
 
@@ -74,7 +74,7 @@ This was the part where I felt like I was beginning to be able to see what might
 
 I always save the best for last, and now went on to follow Alchemy's excellent How to Create an NFT Tutorial. This is where all of this really started clicking for me. Now, I had seen and done some of this before. I knew how to deploy to hardhat. I had seen how React hooks plugged in functions to a live website. Now I got to see how this technology plugged into Web3.
 
-[Alchemy NFT Tutorial](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
+## [Alchemy NFT Tutorial](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
 
 Here I could see that real deployment of a full project would be possible. I also learned a few things. I learned that really, you don't need to worry about the front-end, ever, at all.  For example, as it turns out, they set all this up so that your contract will generate an **ABI** with all your functions and that's what you plug into the front-end website. Easy.
 
@@ -95,7 +95,7 @@ I wasn't actually planning to write this but I suppose now I'll just update it a
 
 # Road to my Mastery of Solidity YouTube Playlist
 
-https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k
+## [YouTube Playlist](https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k)
 
 # Additional Advice
 
@@ -110,3 +110,5 @@ If you load it up with too much information, it will laugh at you and discard th
 Feed your brain with some information each day and allow it to cook. It's like cooking, information cooking. Mmm.
 
 So remember, always cook your brain!
+
+Did this help you? Here's the twitter post if you want to share it: [to be added momentarily]
