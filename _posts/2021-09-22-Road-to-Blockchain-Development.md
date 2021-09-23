@@ -7,9 +7,9 @@ picformat: .gif
 
 <a href="{{ page.url }}"> ![image](/img/development.gif) </a>
 
-This details how I learned to develop on blockchains. 
+This details how I learned to develop on blockchains.
 
-# Part 1
+# Part 1 🕵️
 
 Before I was committed to learning how to develop on these platforms, I started out with Crypto Zombies and Eth.Build.
 
@@ -19,7 +19,7 @@ Before I was committed to learning how to develop on these platforms, I started 
 
 While I didn't understand too much of what was going on, what I was doing was familiarizing myself with the Solidity language and seeing how it interacted with the Ethereum blockchain. Eth.build gave me a look at how the magic of private and public keys can be used to do all kinds of amazing things. However I was far from being able to actually do anything.  
 
-# Part 2
+# Part 2 👨‍🚀
 
 At some point, I stopped being only mildly interested and decided I wanted to build a project and that I would find out how. I had to dive into the water.
 
@@ -43,7 +43,7 @@ I figured out I could go to Etherscan and look at anyone's contracts I wanted [a
 
 I wanted more, too. How could I get my code into a website? How could I actually build a functional project?
 
-# Part 3
+# Part 3 👨‍💻
 
 I looked for more resources. I found Solidity by Example and dived in, working through the text and learning from the teacher in the associated video series.
 
@@ -51,13 +51,13 @@ I looked for more resources. I found Solidity by Example and dived in, working t
 
 This is what started to give me a true grasp on the language.
 
-Then I found Austin Griffith's ETH Scaffold. An amazing project. This project would set you up with an entire development studio, including a live front end, and the ability to deploy these live. It made everything easier and was a one stop solution from start to finish.
+Then I found Austin Griffith's ETH Scaffold. An amazing project. This project would set you up with an entire development 'studio', including a live front end [and so much more], and the ability to deploy these live. It made everything easier and was a one stop solution from start to finish.
 
 ## [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 
 I was able to get this off the ground and finally see a project interact with the front end website.
 
-# Part 4
+# Part 4 🧙
 
 There was just one problem I found. I didn't know React. I didn't understand these systems, and I wanted more control over the production process.
 I looked for more development tutorials, and one I found told me again that I should learn React. It recommended this video series, and I couldn't have been more interested.
@@ -68,7 +68,7 @@ I think it was at this point that I realized, wow. Pretty much all of this live 
 
 ## [Node.js course](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k&index=57)
 
-# Part 5
+# Part 5 🌞💡
 
 This was the part where I felt like I was beginning to be able to see what might lay over a mountain of information and began to see a horizon in the distance.
 
@@ -78,7 +78,7 @@ I always save the best for last, and now went on to follow Alchemy's excellent H
 
 Here I could see that real deployment of a full project would be possible. I also learned a few things. I learned that really, you don't need to worry about the front-end, ever, at all.  For example, as it turns out, they set all this up so that your contract will generate an **ABI** with all your functions and that's what you plug into the front-end website. Easy.
 
-# Part 6 - Now
+# Part 6 - Now ✨
 
 Now I'm here. I stumbled across a smart contract I wanted to fork and work with and play with. I've been wanting it to click in my mind, how simple this really is. How it really usually is as simple as writing a "get" function to get what I want, and "set" function to set the state of something.  
 Now I've gone back to the eth scaffold, which I may not end up using for my final front end, but I see now is an amazing, amazing tool to automatically and instantly give you access to all of your functions, to play with them and mess with any contract to your hearts content.
@@ -93,11 +93,11 @@ I still have questions to answer for myself, among some of the top are,
 
 I wasn't actually planning to write this but I suppose now I'll just update it as I go on.
 
-# Road to my Mastery of Solidity YouTube Playlist
+# Road to my Mastery of Solidity YouTube Playlist ‍🚀
 
 ## [YouTube Playlist](https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k)
 
-# Additional Advice
+# Additional Advice 🤖💛
 
 Don't just not try to do something because you don't know how. Try to do it. If you can't figure it out, if you can't find the answer, move on and try something else. Keep trying things until something works. Play.
 
@@ -109,6 +109,7 @@ Don't rush. No matter how fast you go, your brain is going to have to process th
 If you load it up with too much information, it will laugh at you and discard the entire stack.
 Feed your brain with some information each day and allow it to cook. It's like cooking, information cooking. Mmm.
 
-So remember, always cook your brain!
+So remember, always cook your brain! 👨‍🍳 🍌🍌🍌
 
-Did this help you? Here's the twitter post if you want to share it: [to be added momentarily]
+Did this help you in your journey?
+Here's the twitter post if you want to share it: [to be added momentarily]
