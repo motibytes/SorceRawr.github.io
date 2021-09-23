@@ -97,6 +97,8 @@ I wasn't actually planning to write this but I suppose now I'll just update it a
 
 # Road to my Mastery of Solidity YouTube Playlist ‍🚀
 
+-
+
 ## [YouTube Playlist](https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k)
 
 -
