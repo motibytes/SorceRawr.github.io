@@ -7,7 +7,7 @@ picformat: .gif
 
 <a href="{{ page.url }}"> ![image](/img/development.gif) </a>
 
-This article assumes that you have a standard user's understanding of Ethereum and have used Metamask.
+This details how I learned to develop on blockchains. 
 
 # Part 1
 
