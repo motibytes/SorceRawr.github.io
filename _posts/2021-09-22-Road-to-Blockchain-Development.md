@@ -105,7 +105,7 @@ I wasn't actually planning to write this but I suppose now I'll just update it a
 
 # Additional Advice 🤖💛
 
-Don't just not try to do something because you don't know how. Try to do it. If you can't figure it out, if you can't find the answer, move on and try something else. Keep trying things until something works. Play.
+It's okay to not know how to do things. Try to do it. If you can't figure it out, if you can't find the answer, move on and try something else. Keep trying things until something works. Play.
 
 All of this is less complicated than it seems on the surface. Once you know what's going on, a lot of this tech is actually stupidly simple to use.
 
