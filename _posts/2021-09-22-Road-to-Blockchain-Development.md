@@ -113,7 +113,7 @@ Don't rush. No matter how fast you go, your brain is going to have to process th
 If you load it up with too much information, it will laugh at you and discard the entire stack.
 Feed your brain with some information each day and allow it to cook. It's like cooking, information cooking. Mmm.
 
-So remember, always cook your brain! 👨‍🍳 🍌🍌🍌
+So remember, always cook your brain! 👨‍🍳 🍌
 
 Did this help you in your journey?
 Here's the twitter post if you want to share it: [to be added momentarily]
