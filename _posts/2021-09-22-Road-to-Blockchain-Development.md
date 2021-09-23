@@ -17,7 +17,7 @@ Before I was committed to learning how to develop on these platforms, I started 
 
 ## [Eth.build](https://eth.build/)
 
-While I didn't understand too much of what was going on, what I was doing was familiarizing myself with the Solidity language and seeing how it interacted with the Ethereum blockchain. Eth.build gave me a look at how the magic of private and public keys can be used to do all kinds of amazing things. However I was far from being able to actually do anything.  
+While I didn't understand too much of what was going on, what I was doing was familiarizing myself with the Solidity language and seeing how it interacted with the Ethereum blockchain. Austin Griffith's Eth.build gave me a look at how the magic of private and public keys can be used to do all kinds of amazing things. However I was far from being able to actually do anything.  
 
 # Part 2 👨‍🚀
 
