@@ -118,4 +118,4 @@ Feed your brain with some information each day and allow it to cook. It's like c
 So remember, always cook your brain! 👨‍🍳 🍌
 
 Did this help you in your journey?
-Here's the twitter post if you want to share it: [to be added momentarily]
+Here's the twitter post if you want to share it: https://twitter.com/BytesTheBlessed/status/1440841630097948672
