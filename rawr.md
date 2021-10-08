@@ -37,7 +37,7 @@ __[Patreon](https://www.patreon.com/motibytes?fan_landing=true)__
 
 bc1q99vng5nykfjv7vy8crj7p3a4nluwgm44mup20a
 
-## Drop that sweet, sweet Ethereum to
+## Drop some sweet, sweet Ethereum to
 
 0x39c7C9FdB10Df996d59590fd5cC52483a919EB29
 
@@ -56,7 +56,7 @@ Most of the gifs on this site are taken from [Erica Anderson](https://ericaofand
 <!--
 Follow on Instagram: coming soon
 
-Follow on Twitter: @GnopticThe -->
+Follow on Twitter: @0xdivi -->
 
 <script type="application/ld+json">
 {
@@ -67,5 +67,3 @@ Follow on Twitter: @GnopticThe -->
   "logo": "http://www.sorcerawr.com/img/logo.png"
 }
 </script>
-
-<!-- find her companys website and her ld json tag that goes with it too. -->
