@@ -117,9 +117,14 @@ If you're serious about eth dev, this is your new bible. You're going to want to
 
 And the tools! The glorious, glorious tools! [the tools](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tools)
 
+[this section paragraph to be updated shortly
 For where I'm at, I'm about to look into using [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp)
 or [create-eth-app](https://github.com/PaulRBerg/create-eth-app) as the template for my dapps, hoping they are up to date, will update with results
 
+and https://usedapp.io/
+
+and https://eth95.dev/
+ ]
 # Additional Advice 🤖💛
 
 It's okay to not know how to do things. Try to do it. If you can't figure it out, if you can't find the answer, move on and try something else. Keep trying things until something works. Play.
