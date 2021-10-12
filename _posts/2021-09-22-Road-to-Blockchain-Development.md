@@ -95,13 +95,30 @@ I still have questions to answer for myself, among some of the top are,
 
 I wasn't actually planning to write this but I suppose now I'll just update it as I go on.
 
-# Road to my Mastery of Solidity YouTube Playlist ‍🚀
+# Part 7 - Road to my Mastery of Solidity YouTube Playlist ‍🚀
 
 -
 
 ## [YouTube Playlist](https://www.youtube.com/playlist?list=PLwgC-cD-X2_W-Og-cX-W1lzG3Jppy_Y7k)
 
 -
+
+# Part 8 - NEW - The Golden Road - Updated 10/12/2021
+
+If you're like me and you ran headfirst through all these tutorials, hitting walls and barely scraping by, and you survived all the way until now,
+congratulations, now you're gonna wanna kill me.
+
+You've probably thought, why isn't any of this information condensed, why can't I find a single resource that has everything I'm looking for in one place?
+Well, I finally found it. It's here at [cryptodevhub.io](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tutorials),
+
+^^^^ the resource I've been looking for countless months.
+
+If you're serious about eth dev, this is your new bible. You're going to want to scour every page on this site, because it has it all.
+
+And the tools! The glorious, glorious tools! [the tools](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tools)
+
+For where I'm at, I'm about to look into using [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp)
+or [create-eth-app](https://github.com/PaulRBerg/create-eth-app) as the template for my dapps, hoping they are up to date, will update with results
 
 # Additional Advice 🤖💛
 
