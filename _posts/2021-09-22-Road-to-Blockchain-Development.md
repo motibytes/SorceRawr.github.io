@@ -116,14 +116,13 @@ Well, I finally found it. It's here at [cryptodevhub.io](https://cryptodevhub.io
 If you're serious about eth dev, this is your new bible. You're going to want to scour every page on this site, because it has it all.
 
 And the tools! The glorious, glorious tools! [the tools](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tools)
-
 [this section paragraph to be updated shortly
 For where I'm at, I'm about to look into using [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp)
 or [create-eth-app](https://github.com/PaulRBerg/create-eth-app) as the template for my dapps, hoping they are up to date, will update with results
 
-and https://usedapp.io/
+and [usedapp.io](https://usedapp.io/) ..
+and [eth95.dev](https://eth95.dev/)/..
 
-and https://eth95.dev/
  ]
 # Additional Advice 🤖💛
 
