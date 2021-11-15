@@ -7,7 +7,7 @@ picformat: .gif
 
 <a href="{{ page.url }}"> ![image](/img/development.gif) </a>
 
-This details how I learned to develop on blockchains. I recommend jumping to [this summary](#jumptome).  
+This details how I learned to develop on blockchains. I recommend jumping to [the summary at Part 9](#jumptome) first.  
 
 # Part 1 🕵️
 
@@ -114,6 +114,7 @@ Well, I finally found it. It's here at [cryptodevhub.io](https://cryptodevhub.io
 ^^^^ the resource I've been looking for countless months.
 
 And the tools! The glorious, glorious tools! [the tools](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tools)
+
 [Update 11/14/2021: Out of that list of tools, I am particularly fond of [eth95.dev](https://eth95.dev/)/ ]
 
 <div id="jumptome"> - </div>
@@ -152,7 +153,7 @@ These will not really teach you NFT development but will give you a custom setup
 
 [HashLips](https://github.com/HashLips)
 
-[Bitbirds 1](https://github.com/nft-fun/generate-bitbirds)
+[Bitbirds](https://github.com/nft-fun/generate-bitbirds)
 
 # Additional Advice 🤖💛
 
