@@ -423,7 +423,7 @@ footer a:hover {
 /* all my code !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 
 #main {
-  background: #111111 url(img/liquidgold.jpg) 0 0 no-repeat;
+  background: #111111 url(img/liquidgold.jpg) 0 0 repeat;
 }
 #thefeed {
   font-family: 'Raleway', sans-serif;
