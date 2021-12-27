@@ -12,7 +12,7 @@ None of this content is affiliate or sponsored marketing.
 
 # VR Titles
 
-New and Recommended: - Vertical Shift
+New and Recommended: - [Vertical Shift](http://verticalshift.net/)
 
 <div style="background-image: url(/img/r11.jpg)">
 <iframe width="242" height="242"  
